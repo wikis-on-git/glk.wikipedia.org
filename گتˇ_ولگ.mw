@@ -1,4 +1,3 @@
-<div dir="rtl" lang="glk">
 <span id="mainpage"><p style="margin: 0.5em 0 0; text-align: left; 
 font-size: 100%; line-height: 1.3"> {{sar}}</span>
 </p>
@@ -11,7 +10,7 @@ font-size: 100%; line-height: 1.3"> {{sar}}</span>
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
 | style="font: 120% Arial; color:black" align="center" bgcolor="#D0E2EE" |'''پورتالؤن'''
 |-
-| style="border-top:1px solid #BED2E0; font: 120% Arial;" align="right" bgcolor="#FFFFFF" |
+| style="border-top:1px solid #BED2E0; font: 120% Arial;" align="center" bgcolor="#FFFFFF" |
 {{پورتال}}
 |}
 {| style="border:1px solid #CC9900; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
@@ -172,7 +171,6 @@ font-size: 100%; line-height: 1.3"> {{sar}}</span>
 [[:roa-tara:|Tarandíne]] . 
 [[:be:|Беларуская]] . 
 [[:an:|Aragonés]] . 
-[[:ru-sib:|Сибирской]] . 
 [[:ksh:|Ripoarisch]] . 
 [[:ht:|Krèyol ayisyen]] . 
 [[:cv:|Чăваш]] . 
@@ -237,4 +235,3 @@ font-size: 100%; line-height: 1.3"> {{sar}}</span>
 [[:tk:|تركمن / Туркмен]]
 ... '''[[m:List of Wikipedias|باخی زوانؤن]]'''
 |-
-</div><!-- dir="rtl" -->
