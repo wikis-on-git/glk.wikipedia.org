@@ -1,81 +1,80 @@
-<span id="mainpage"><p style="margin: 0.5em 0 0; text-align: left; 
-font-size: 100%; line-height: 1.3"> {{سر}}</span>
+<span id="mainpage"><p style="margin: 0.5em 0 0; text-align: left; line-height: 1.3"> {{سر}}</span>
 </p>
 {| style="border:1px solid #33CC33; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="font: 120% Arial; color:black" align="center" bgcolor="#CCFFCC" |'''خالؤن'''
+| style="font:color:black" align="center" bgcolor="#CCFFCC" |'''خالؤن'''
 |-
-| style="border-top:1px solid #33CC33; font: 100% Arial;" align="center" bgcolor="#F4FFF4" |
+| style="border-top:1px solid #33CC33;" align="center" bgcolor="#F4FFF4" |
 {{خالؤن}}
 |}
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="font: 130% Arial; color:black" align="center" bgcolor="#D0E2EE" |'''پورتالؤن'''
+| style="font: color:black" align="center" bgcolor="#D0E2EE" |'''پورتالؤن'''
 |-
-| style="border-top:1px solid #BED2E0; font: 130% Arial;" align="center" bgcolor="#FFFFFF" |
+| style="border-top:1px solid #BED2E0;" align="center" bgcolor="#FFFFFF" |
 {{پورتال}}
 |}
 {| style="border:1px solid #CC9900; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="font: 120% Arial; color:black" align="center" bgcolor="#ECE5CA" |'''هفتگی بنویشته'''
+| style="font: color:black" align="center" bgcolor="#ECE5CA" |'''هفتگی بنویشته'''
 |-
-| style="border-top:1px solid #CC9900; font: 120% Arial;" align="right" bgcolor="#F9F8F0" |
+| style="border-top:1px solid #CC9900;" align="right" bgcolor="#F9F8F0" |
 {{هفتگی بنویشته}}
 |}
 
 {| style="border-spacing:8px;margin:0px -8px"
 |class="MainPageBG" style="width: 60%; border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top;  -moz-border-radius:10px" | 
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff;  -moz-border-radius:10px"
-! style="background-color: #cedff2; font-family:Arial; font-size: 100%; border: 1px solid #B1CDEB; text-align: right;  padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:Wbar_blue.jpg]]</div><div style="float:right;"> ویکی خبر [[Image:Wikinews-logo.png|30px]]
+! style="background-color: #cedff2; border: 1px solid #B1CDEB; text-align: right;  padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:Wbar_blue.jpg]]</div><div style="float:right;"> ویکی خبر [[Image:Wikinews-logo.png|30px]]
 |-
-| style="; font-family:Arial; font-size: 90%" | {{ویکی خبر}}<span style="float:right; font-family:Arial; font-size: 80%; padding:0 .5em 0 2em">
+| style= | {{ویکی خبر}}<span style="float:right; padding:0 .5em 0 2em">
 |-
-! style="background-color: #DCF4CC; font-family:Arial; font-size: 100%; border: 1px solid #9EE072; text-align: right; padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green2.jpg]]</div><div style="float:right;"> ویکی بگوته [[Image:Wikiquote-logo.svg|20px]]
+! style="background-color: #DCF4CC; border: 1px solid #9EE072; text-align: right; padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green2.jpg]]</div><div style="float:right;"> ویکی بگوته [[Image:Wikiquote-logo.svg|20px]]
 |-
-| style="font-family:Arial; font-size: 90%" | 
+| style= | 
 {{ویکی بگوته}}
 |- 
 |-
-! style="background-color: #F0F3CD; font-family:Arial; font-size: 100%; border: 1px solid #DDDDA4; text-align: right;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green3.jpg]]</div><div style="float:right;"> ویکی کیتاب [[Image:Wikibooks-logo.svg|20px]]</div>
+! style="background-color: #F0F3CD; border: 1px solid #DDDDA4; text-align: right;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green3.jpg]]</div><div style="float:right;"> ویکی کیتاب [[Image:Wikibooks-logo.svg|20px]]</div>
 |- 
-| style="font-family:Arial; font-size: 90%" | 
+| style= | 
 {{ویکی کیتاب}}
 |}
 |class="MainPageBG" style="border:1px solid #cedff2; background-color:#ffffff; vertical-align:top; -moz-border-radius:10px"| <div style="margin: 4px 4px 2px 4px; text-align: right;">
 {| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;"
 |-
-! style="background-color: #CEF2E8; font-family:Arial; font-size: 100%; border: 1px solid #8BE0C9; text-align: right;  padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green1.jpg]]</div><div style="float:right;"> گیله ویکی ره وانیویس چاکونین [[Image:Wikipedia.png|20px]]</div>
+! style="background-color: #CEF2E8; border: 1px solid #8BE0C9; text-align: right;  padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green1.jpg]]</div><div style="float:right;"> گیله ویکی ره وانیویس چاکونین [[Image:Wikipedia.png|20px]]</div>
 |-
-| style="font-family:Arial; font-size: 90%" | {{وانیویس چاکونی}}
+| style= | {{وانیویس چاکونی}}
 |-
-! style="background-color: #F7CADA; font-family:Arial; font-size: 100%; border: 1px solid #EF98B7; text-align: right;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:Wbar_pink.jpg]]</div><div style="float:right;"> ویکی واژه [[Image:Wiktionary-logo-es.png|20px]]
+! style="background-color: #F7CADA; border: 1px solid #EF98B7; text-align: right;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:Wbar_pink.jpg]]</div><div style="float:right;"> ویکی واژه [[Image:Wiktionary-logo-es.png|20px]]
 |-
-| style="font-family:Arial; font-size: 90%" | 
+| style= | 
 {{ویکی واژه}}
 |}
 |}
 
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="font: 120% Arial; color:black" align="center" bgcolor="#D0E2EE" |'''الیفبا واموج'''
+| style=align="center" bgcolor="#D0E2EE" |'''الیفبا واموج'''
 |-
-| style="border-top:1px solid #BED2E0; font: 120% Arial;" align="center" bgcolor="#FFFFFF" |
+| style="border-top:1px solid #BED2E0;" align="center" bgcolor="#FFFFFF" |
 {{الیفبا واموج}}
 |}
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="font: 120% Arial; color:black" align="center" bgcolor="#D0E2EE" |'''باخی برنؤمن'''
+| style="font:color:black" align="center" bgcolor="#D0E2EE" |'''باخی برنؤمن'''
 |-
-| style="border-top:1px solid #BED2E0; font: 120% Arial;" align="left" bgcolor="#FFFFFF" |
+| style="border-top:1px solid #BED2E0;" align="left" bgcolor="#FFFFFF" |
 {{باخی برنؤمن}}
 |}
 
 {| style="border:1px solid #BED2E0; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="font: 120% Arial; color:black" align="center" bgcolor="#D0E2EE" |'''هم زوانؤن'''
+| style="font: color:black" align="center" bgcolor="#D0E2EE" |'''هم زوانؤن'''
 |-
-| style="border-top:1px solid #BED2E0; font: 120% Arial;" align="center" bgcolor="#FFFFFF" |
+| style="border-top:1px solid #BED2E0;" align="center" bgcolor="#FFFFFF" |
 [[گیلکی|Gilaki (گيلکی)]] • [[:diq:|Zazaki (زازاکی)]] • [[:mzn:|Mazandarani (مازرونی)]]
 |}
 
-!style="border:2px solid #d0d9dd;background:#e1eaee;text-align:center;font-weight:normal;font-size:120%;font-family:Arial"|
+!style="border:2px solid #d0d9dd;background:#e1eaee;text-align:center;font-weight:normal"|
 ويکيپديا، باخی زوانؤن ِ مئن
 |-
-!style="text-align:right;font-weight:normal;font-size:120%;font-family:Arial"|
+!style="text-align:right;font-weight:normal"|
 او ویکیپدیا دانشنؤمنی کی 100،000 جی ویشتر ایسسن:<br />
 [[:en:|English]] . 
 [[:de:|Deutsch]] . 
