@@ -40,6 +40,10 @@
 |class="MainPageBG" style="border:1px solid #cedff2; background-color:#ffffff; vertical-align:top; -moz-border-radius:10px"| <div style="margin: 4px 4px 2px 4px; text-align: right;">
 {| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;"
 |-
+! style="background-color: #F0F3CD; border: 1px solid #DDDDA4; text-align: right;  padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green3.jpg]]</div><div style="float:right;"> ویکیپدیا گزارش [[Image:Wikipedia.png|20px]]</div>
+|-
+| style= | {{گزارش}}
+|-
 ! style="background-color: #CEF2E8; border: 1px solid #8BE0C9; text-align: right;  padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green1.jpg]]</div><div style="float:right;"> گیله ویکی ره وانیویس چاکونین [[Image:Wikipedia.png|20px]]</div>
 |-
 | style= | {{وانیویس چاکونی}}
@@ -68,7 +72,7 @@
 | style="font: color:black" align="center" bgcolor="#D0E2EE" |'''هم زوانؤن'''
 |-
 | style="border-top:1px solid #BED2E0;" align="center" bgcolor="#FFFFFF" |
-[[گیلکی|Gilaki (گيلکی)]] • [[:diq:|Zazaki (زازاکی)]] • [[:mzn:|Mazandarani (مازرونی)]]
+[[گیلکی|Gileki (گيلکی)]] • [[:diq:|Zazaki (زازاکی)]] • [[:mzn:|Mazandarani (مازرونی)]]
 |}
 
 !style="border:2px solid #d0d9dd;background:#e1eaee;text-align:center;font-weight:normal"|
