@@ -30,40 +30,4 @@
 |}
 |}
 
-<!-- نگارهٔ برگزیده -->
-{| style="margin:0 0 0 0; background:none; width:100%; margin-top:12px; background:transparent;"
-| style="width:100%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 20px 0px 0px;{{border-radius|10px}}" |
-{| width="100%" style=" padding:0px; margin-top:0px; margin-bottom:0px; background:transparent;"
-|-
-| align=center|<div id="mf-fp">{{صفحهٔ اصلی/قاب۲
-| تصویر   = Symbol_star6.svg
-| عنوان   = {{#ifexist:الگو:نر محافظت شده/{{formatnum:{{#time:Y-m-d}}|R}}
-| نگارهٔ برگزیدهٔ امروز
-| نگاره برگزیده&ensp;<span style="font-size:70%; font-weight:normal;">(برای نگارهٔ برگزیدهٔ امروز بعداً رجوع کنید)</span>
-}}
-|id      = mf-fp
-| محتوا = {{نگاره روز صفحه اصلی}}
-}}</div>
-|}
-|}
-
-<!-- زبان‌های دیگر و پروژه‌های خواهر -->
-{| style="margin:0 0 0 0; background:none; width:100%; margin-top:12px; background:transparent;"
-| style="width:100%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 20px 0px 0px;{{border-radius|10px}}" |
-{| width="100%" style=" padding:0px; margin-top:0px; margin-bottom:0px; background:transparent;"
-|-
-| align=center|<div id="mf-sp">{{صفحهٔ اصلی/قاب۲
-| تصویر   = Wikimedia-logo.svg
-| عنوان   = ویکیمدیا باخی پروژه‌ٰن
-|id      = mf-sp
-| محتوا = {{الگو:صفحهٔ اصلی/پروژه‌های خواهر}}
-}}</div>
-|{{صفحهٔ اصلی/قاب۲
-| تصویر   = Wikipedia's_W.svg
-| عنوان   = دسخاخور زوانان
-|id      = mp-ol
-| محتوا = {{زبان‌های ویکی‌پدیا}}
-}}
-|}
-|}
  __NOTOC__ __NOEDITSECTION__
