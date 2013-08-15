@@ -10,13 +10,14 @@
 |پیوند = 
 }}</div>
 
-|{{صفحهٔ اصلی/قاب۲
-| تصویر   = Text-x-generic.svg
-| عنوان   = خالؤن
-|id      = mp-ol
-| محتوا = {{خالؤن}}
+| <div id="mf-fa">{{صفحهٔ اصلی/قاب
+|عنوان   = خالؤن
+|id      = mf-fa
+|تصویر   = Text-x-generic.svg
+|محتوا = {{خالؤن}}
+|پیوند = 
+}}</div>
 
-}}
 |}
 |  style="border:5px solid transparent;" |
 | style="width:50%; border:1px solid #a7d7f9; background:#f5faff; vertical-align:top; padding: 0px 15px 10px 0px; {{border-radius|10px}}"|
