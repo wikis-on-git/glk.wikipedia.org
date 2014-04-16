@@ -8,21 +8,21 @@
 {| class="wikitable"
 !Gilaki || Zazaki || Farsi Zevan || Rusi Zevan|| Yunani Zevan ||  İtalyani Zevan || Espanyoli Zevan || Almani Zevan ||  Fransi Zevan || Ingilisi Zevan 
 |--
-| '''yak'''  || ju/yew || yek || odin || ena || uno || uno || eins || un || one 
+| '''yak'''  || jû/yew || yek || odin || ena || uno || uno || eins || un || one 
 |--
 |'''du'''  || di || do || dva || dyo || due || dos || zwei || deux || two 
 |--
 | '''se'''  || hri || se || tri || tria || tre || tres || drei || trois || three 
 |--
-| '''çahar'''  || çeher || çahar || çetyre || tesera || quattro || cuatro || vier || quatre || four 
+| '''çahar'''  || çehAr || çahar || çetyre || tesera || quattro || cuatro || vier || quatre || four 
 |--
-| '''panc'''  || ponc || penc || pyatʹ || pende || cinque || cinco || fünf || cinq || five 
+| '''panc'''  || pAnc || penc || pyatʹ || pende || cinque || cinco || fünf || cinq || five 
 |--
 | '''şiş'''|| şeş || şiş || shestʹ || eksi || sei || seis || sechs || six || six 
 |--
 | '''haft''' || hewt || heft || semʹ || epta || sette || siete || sieben || sept || seven 
 |--
-| '''haşt''' || heyşt || heşt || vosemʹ || okto || otto || ocho || acht || huit || eight 
+| '''haşt''' || heşt || heşt || vosemʹ || okto || otto || ocho || acht || huit || eight 
 |--
 | '''nah'''  || new || noh || devyat || ennia || nove || nuevo || neun || neuf || nine 
 |--
@@ -40,7 +40,7 @@
 |--
 | '''برار/گگ'''|| Bra || Brader || Brat || Adelfos || Fratello || Hermano ||  Frére || Bruder || Brother 
 |--
-| '''نوم'''|| Nome || Nam || İmya || Onoma || Nome || Nombre || Non || Name || Name 
+| '''نوم'''|| NAme || Nam || İmya || Onoma || Nome || Nombre || Non || Name || Name 
 |--
 | '''لو'''|| Lew || Leb || Guba || Cheíli || Labbro || Labio || Lévre || Lippe || Lip
 |--
@@ -60,7 +60,7 @@
 |--
 | '''شوکا'''|| Ğezale || Gazal || Gazel || Kazélla || Gazzella || Gacela || Gazelle || Gazelle || Gazelle
 |--
-| '''لوش''' || Der || Der || Dvar || Pórta || Porta || Puerta || Portre || Tor || Door 
+| '''لوش''' || Ber || Der || Dvar || Pórta || Porta || Puerta || Portre || Tor || Door 
 |--
 | '''لینگ/چَک''' || Pa/Lıng || Pa || Podnozhie || Pódi || Piede || Pata || Pied || Fuß || Foot/Leg 
 |--
@@ -70,7 +70,7 @@
 |--
 | '''ترنه/نو'''|| Newe || Nev || Novyi || Néos || Nuovo || Nuevo || Nouveau || Neu || New 
 |--
-| '''پُر'''|| Pır/Pur || Pur || Polnyi || Pliri || Pieno || Pleno || Plein || Prall || Full
+| '''پُر'''|| Pırr/Purr || Pur || Polnyi || Pliri || Pieno || Pleno || Plein || Prall || Full
 |--
 | '''گَت''' || Gırd || Bozorg || Gromnyi || Megálos || Grande || Gran || Grande || Groß || Great 
 |--
@@ -82,11 +82,11 @@
 |--
 | '''کِرگ''' || Kerge || - || Kuritsa || Kotópoulo || - || - || - || Küken || Chicken 
 |--
-| '''ملیجه''' || Murcele || Meverçe || Muravyei || - || - || - || Amerse || -
+| '''ملیجه''' || Morcela || Meverçe || Muravyei || - || - || - || Amerse || -
 |--
-| '''شادی''' || Meymun || Meymun || Maimou || - || Scimmia || Mono || - || Monkey
+| '''شادی''' || Meymûn || Meymun || Maimou || - || Scimmia || Mono || - || Monkey
 |--
-| '''سِره/خِنه''' || Bon || Bina || - || - || - || - || Bâtiment || Baun || Build
+| '''سِره/خِنه''' || Ban || Bina || - || - || - || - || Bâtiment || Baun || Build
 |--
 | '''ونگ'''|| Vac || Ava || - || - || Voce || Vaz || Voix || - || Voice 
 |--
@@ -108,6 +108,7 @@
 |--
 | '''خار''' || Weş || Aveh || Vpolne || - || - || - || - || Wohl || Well
 |}
+
 ==Zazaki Alifba(زازاکی آلیفبا)==
 [[پرونده:Zaza_DialectsMap.gif|left|بندانگشتی|300px|Diyaletke Zazaki]]
 *[[Zazaki alifba]]
