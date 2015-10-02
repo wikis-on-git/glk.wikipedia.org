@@ -1,14 +1,24 @@
 <div id="mp-header">{{سر}}</div>
 {| style="margin-top:10px; background:none;"
-| style="width:50%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 0px 10px 10px; {{border-radius|10px}}" |
+| style="width:55%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 0px 10px 10px; {{border-radius|10px}}" |
 {| cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:transparent;"
 | <div id="mf-fa">{{صفحهٔ اصلی/قاب
+|تصویر   = Text-x-generic.svg
 |عنوان   = دؤجین بۊبؤ وانیویس
 |id      = mf-fa
-|تصویر   = Text-x-generic.svg
 |محتوا = {{دؤجین ببؤ وانیویس}}
 |پیوند = 
 }}</div>
+
+| <div id="mf-fa">{{صفحهٔ اصلی/قاب
+|عنوان   = خالان
+|id      = mf-fa
+|تصویر   = Disambig.svg
+|محتوا = {{جرگه'ن ۲}}
+|پیوند = 
+}}</div>
+
+
 |}
 |  style="border:5px solid transparent;" |
 | style="width:50%; border:1px solid #a7d7f9; background:#f5faff; vertical-align:top; padding: 0px 15px 10px 0px; {{border-radius|10px}}"|
