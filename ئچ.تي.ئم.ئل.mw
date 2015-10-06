@@ -1,0 +1,52 @@
+'''ئچ.تي.ئم.ئل''' ىا '''HTML''' ىته اينترنتي زبان ايسه گه اجرا ره نياز به مرۊرگر (browser) دأنه<ref>مهندسي اينترنت، عباسعلي رضائي،انتشارات خط اول،۱۳۹۳. ويراست دوم</ref>. وب رامۊجان، تۊنن ئچ.تي.ئم.ئلˇ فاىلانه بۊخؤنن ؤ وب ولگانه دئشا (visible) وؤ ايشتؤوسشا (audible)<ref>برطبق اؤلگۊى دئشا وؤ خؤردشا، ايشتؤوسشا گيتن ببئه.</ref> بؤنن.
+
+==ئچ.تي.ئم.ئل چي هيسه؟==
+ئچ.تي.ئم.ئل (اينگليسي مئن: HTML) ىته نشانه-گذاري زبان هيسه وب ولگانˇ<ref>ولگ | page | پيشنهاد ورگي | http://v6rg.com/?p=1584</ref> تؤصيفˇ ره<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+* ئچ.تي.ئم.ئل، Hyper Text Markup Language جی گیتن ببئه<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+* ىته نشانه-گذاري زبان، ىه سري نشانه-گذاري تگانˇ جي تشکيل ببئه<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+*ئچ.تي.ئم.ئلˇ سندان (HTML documents)، توسط ئچ.تي.ئم.ئلˇ تگان (HTML tags) تؤصيف ببئه<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+* تگؤن ىا تگان (tags) هر ىته، ىکته سندˇ دل-درۊنئه تؤصيف کؤنن، سنداني گه کسؤنأجي تؤفير دأنن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+
+
+
+==ئچ.تي.ئم.ئلˇ تگان==
+ئچ.تي.ئم.ئلˇ تگان، کيليدي کلمه'ني هيسن گه توسط براکت احاطه وکتأن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+
+* <nowiki><تگˇ نام>دله ىا محتوا</تگˇ نام></nowiki>
+* اينˇ اؤرجينال حالت ايته هيسه<ref>http://www.w3schools.com/html/html_intro.asp</ref>: <nowiki><tagname>content</tagname></nowiki>
+
+
+
+==وب مرۊرگران==
+هدف مرۊرگري<ref>دليل مقدم بودن مؤصوف بر صفت، تأکيدي هيسه گه "هدف" سر درنظر گيتن ببئه</ref>، شأنه ايته واگۊئه گۊتن: ئچ.تي.ئم.ئلˇ سندانه خؤندن ؤ اۊشانه نماىش دأن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+
+مرۊرگران، ئچ.تي.ئم.ئلˇ تگانه نماىش ندنن، ولي اۊشانه کارأگيرن تا مشخص بؤنن که سندان چۊر و چۊته نماىش بدأ بؤبۊن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+
+
+==ئچ.تي.ئم.ئل ولگˇ ساختار==
+:::::::::<nowiki><!DOCTYPE html></nowiki>
+::::::::::::<nowiki><html></nowiki>
+
+:::::::::<nowiki><head></nowiki>
+:::<nowiki><title>Page Title</title></nowiki>
+:::::::::<nowiki><head/></nowiki>
+
+:::::::::<nowiki><body></nowiki>
+:<nowiki><h1>My First Heading</h1></nowiki>
+:<nowiki><p>My first paragraph</p></nowiki>
+:::::::::<nowiki><body/></nowiki>
+
+:::::::::::<nowiki><html/></nowiki>
+
+* خالي تنه تمه<sup>''{سربس خأنه}''</sup> (body area) مئنˇ شئه، مرۊرگر تۊنه نماىش بده<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+* سر تمه<sup>''{سربس خأنه}''</sup> (head area) مئن، اطلاعاتي جا گيرن گه هۊ ولگه مربۊطن. اي تمه اطلاعاته مرۊرگر نشؤن دأ مننه ؤ معمۊلا اۊ اطلاعاتي گه اي تمه مئن بنويشته بۊنه، جستجۊگر جيگه'نˇ<ref>جيگه | site | پيشنهاد ورگي | http://v6rg.com/?p=1584</ref> ره کارأىته بۊنه<ref>مهندسي اينترنت، عباسعلي رضائي،انتشارات خط اول،۱۳۹۳. ويراست دوم</ref>.
+
+
+==<!DOCTYPE>==
+* <!DOCTYPE> ىکته بىانيه هيسه.
+* اي بىانيه، مرۊرگرانه ىاوري کۊنه تا وب ولگانه رسلا نماىش بدن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+* وبˇ مئن چندين ؤ چند جۊر سند نئه گه کسؤنأجي تؤفير دأنن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+* سندانه رسلا نشؤن دأنˇ ره، مرۊرگر خأ هم نؤع (type) بۊدؤنه و هم ورژنه (version)<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+
+==سربس==
+{{جيرنويس}}
