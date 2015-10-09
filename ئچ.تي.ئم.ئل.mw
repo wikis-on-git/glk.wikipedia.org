@@ -1,5 +1,7 @@
 '''ئچ.تي.ئم.ئل''' ىا '''HTML''' ىته اينترنتي زبان ايسه گه اجرا ره نياز به مرۊرگر (browser) دأنه<ref>مهندسي اينترنت، عباسعلي رضائي،انتشارات خط اول،۱۳۹۳. ويراست دوم</ref>. وب رامۊجان، تۊنن ئچ.تي.ئم.ئلˇ فاىلانه بۊخؤنن ؤ وب ولگانه دئشا (visible) وؤ ايشتؤوسشا (audible)<ref>برطبق اؤلگۊى دئشا وؤ خؤردشا، ايشتؤوسشا گيتن ببئه.</ref> بؤنن.
 
+[[image:HTML.svg|thumb|left|اين ىکته ساده سند هيسه ئج.تي.ئم.ئلˇ جي]]
+
 ==ئچ.تي.ئم.ئل چي هيسه؟==
 ئچ.تي.ئم.ئل (اينگليسي مئن: HTML) ىته نشانه-گذاري زبان هيسه وب ولگانˇ<ref>ولگ | page | پيشنهاد ورگي | http://v6rg.com/?p=1584</ref> تؤصيفˇ ره<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
 * ئچ.تي.ئم.ئل، Hyper Text Markup Language جی گیتن ببئه<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
@@ -24,25 +26,53 @@
 
 
 ==ئچ.تي.ئم.ئل ولگˇ ساختار==
+اي جير، ىکته کلاسيک مثال بأرده بؤبؤى گه ۹ ته کدنويسي بؤبؤ رچ دأنه.
+<source lang="html5">
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is a title</title>
+  </head>
+  <body>
+    <p>Hello world!</p>
+  </body>
+</html>
+</source>
 
-[[image:HTML.svg|thumb|left|اين ىکته ساده سند هيسه ئج.تي.ئم.ئلˇ جي]]
+* خالي تنه-تمه<sup>''{سربس خأنه}''</sup> (body area) مئنˇ شئه، مرۊرگر تۊنه نماىش بده<ref>http://www.w3schools.com/html/html_intro.asp</ref>. وؤتي گه تنه-تمه مئنأ <code><body></code> ؤ <code><body/></code> هنه ولگˇ مئن دئشا هيسه.
+* سرتمه<sup>''{سربس خأنه}''</sup> (head area) مئن، اطلاعاتي جا گيرن گه هۊ ولگه مربۊطن. اي تمه اطلاعاته مرۊرگر نشؤن دأ مننه ؤ معمۊلا اۊ اطلاعاتي گه اي تمه مئن بنويشته بۊنه، جستجۊگر جيگه'نˇ<ref>جيگه | site | پيشنهاد ورگي | http://v6rg.com/?p=1584</ref> ره کارأىته بۊنه<ref>مهندسي اينترنت، عباسعلي رضائي،انتشارات خط اول،۱۳۹۳. ويراست دوم</ref>. در واقع وؤتي گه سرتمه مئنأ <code><head></code> ؤ <code><head/></code> هنه، وب ولگانه تؤصيف کۊنه.
 
-:::::::::<nowiki><!DOCTYPE html></nowiki>
-::::::::::::<nowiki><html></nowiki>
+===عنصرؤن===
+عنصر ئچ.تي.ئم.ئلي، ىکته جدا عضو هيسه ئچ.تي.ئم.ئلˇ سندˇ جي. هر عنصر (element) تۊنه خؤره ره ىکته سيوا صفت بدأره ؤ ىکته سيوا مسيرˇ مئن کارأىته وکئه.
 
-:::::::::<nowiki><head></nowiki>
-:::<nowiki><title>Page Title</title></nowiki>
-:::::::::<nowiki><head/></nowiki>
+سرولگ (header):<ref>اينگيليسي ويکي جي گيتن ببئه | https://en.wikipedia.org/wiki/HTML</ref>
+<source lang="html4strict">
+<head>
+  <title>The Title</title>
+</head>
+</source>
 
-:::::::::<nowiki><body></nowiki>
-:<nowiki><h1>My First Heading</h1></nowiki>
-:<nowiki><p>My first paragraph</p></nowiki>
-:::::::::<nowiki><body/></nowiki>
+عنوان (headings):<ref>اينگيليسي ويکي جي گيتن ببئه | https://en.wikipedia.org/wiki/HTML</ref>
+<source lang="html4strict">
+<h1>Heading level 1</h1>
+<h2>Heading level 2</h2>
+<h3>Heading level 3</h3>
+<h4>Heading level 4</h4>
+<h5>Heading level 5</h5>
+<h6>Heading level 6</h6>
+</source>
 
-:::::::::::<nowiki><html/></nowiki>
+پاراگراف:<ref>اينگيليسي ويکي جي گيتن ببئه | https://en.wikipedia.org/wiki/HTML</ref>
+<source lang="html4strict"><p>Paragraph 1</p>  <p>Paragraph 2</p></source>
 
-* خالي تنه تمه<sup>''{سربس خأنه}''</sup> (body area) مئنˇ شئه، مرۊرگر تۊنه نماىش بده<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
-* سر تمه<sup>''{سربس خأنه}''</sup> (head area) مئن، اطلاعاتي جا گيرن گه هۊ ولگه مربۊطن. اي تمه اطلاعاته مرۊرگر نشؤن دأ مننه ؤ معمۊلا اۊ اطلاعاتي گه اي تمه مئن بنويشته بۊنه، جستجۊگر جيگه'نˇ<ref>جيگه | site | پيشنهاد ورگي | http://v6rg.com/?p=1584</ref> ره کارأىته بۊنه<ref>مهندسي اينترنت، عباسعلي رضائي،انتشارات خط اول،۱۳۹۳. ويراست دوم</ref>.
+شؤؤن به اؤکته خط (link breaks):<ref>اينگيليسي ويکي جي گيتن ببئه | https://en.wikipedia.org/wiki/HTML</ref>
+<source lang="html4strict"><p>This <br> is a paragraph <br> with <br> line breaks</p></source>
+ 
+خال زأن:<ref>اينگيليسي ويکي جي گيتن ببئه | https://en.wikipedia.org/wiki/HTML</ref>
+<source lang="html5"><a href="https://www.wikipedia.org/">A link to Wikipedia!</a></source>
+
+کامنت نأن: کامنت نشؤن بدأ نؤبۊنه و خالي بهتر درک گۊدنˇ شئه.<ref>اينگيليسي ويکي جي گيتن ببئه | https://en.wikipedia.org/wiki/HTML</ref>
+<source lang="html4strict"><!-- This is a comment --></source>
 
 ==<!DOCTYPE>==
 * <!DOCTYPE> ىکته بىانيه هيسه.
