@@ -1,4 +1,4 @@
-'''ئچ.تي.ئم.ئل''' ىا '''HTML''' ىته اينترنتي زبان ايسه گه اجرا ره نياز به مرۊرگر (browser) دأنه<ref>مهندسي اينترنت، عباسعلي رضائي،انتشارات خط اول،۱۳۹۳. ويراست دوم</ref>. وب رامۊجان، تۊنن ئچ.تي.ئم.ئلˇ فاىلانه بۊخؤنن ؤ وب ولگانه دئشا (visible) وؤ ايشتؤوسشا (audible)<ref>برطبق اؤلگۊى دئشا وؤ خؤردشا، ايشتؤوسشا گيتن ببئه.</ref> بؤنن.
+'''ئچ.تي.ئم.ئل''' ىا '''HTML''' ىته اينترنتي زبان ايسه گه اجرا ره نياز به [[وبمۊج]] (browser) دأنه<ref>مهندسي اينترنت، عباسعلي رضائي،انتشارات خط اول،۱۳۹۳. ويراست دوم</ref>. وب رامۊجان، تۊنن ئچ.تي.ئم.ئلˇ فاىلانه بۊخؤنن ؤ وب ولگانه دئشا (visible) وؤ ايشتؤوسشا (audible)<ref>برطبق اؤلگۊى دئشا وؤ خؤردشا، ايشتؤوسشا گيتن ببئه.</ref> بؤنن.
 
 [[image:HTML.svg|thumb|left|اين ىکته ساده سند هيسه ئج.تي.ئم.ئلˇ جي]]
 
@@ -19,10 +19,10 @@
 
 
 
-==وب مرۊرگران==
-هدف مرۊرگري<ref>دليل مقدم بودن مؤصوف بر صفت، تأکيدي هيسه گه "هدف" سر درنظر گيتن ببئه</ref>، شأنه ايته واگۊئه گۊتن: ئچ.تي.ئم.ئلˇ سندانه خؤندن ؤ اۊشانه نماىش دأن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+==وبمۊجان==
+[[وبمۊج]]ˇ هدفه شأنه ايته واگۊىه گۊتن: ئچ.تي.ئم.ئلˇ سندانه خؤندن ؤ اۊشانه نماىش دأن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
 
-مرۊرگران، ئچ.تي.ئم.ئلˇ تگانه نماىش ندنن، ولي اۊشانه کارأگيرن تا مشخص بؤنن که سندان چۊر و چۊته نماىش بدأ بؤبۊن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+وبمۊجان، ئچ.تي.ئم.ئلˇ تگانه نماىش ندنن، ولي اۊشانه کارأگيرن تا مشخص بؤنن که سندان چۊر و چۊته نماىش بدأ بؤبۊن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
 
 
 ==ئچ.تي.ئم.ئل ولگˇ ساختار==
@@ -39,8 +39,8 @@
 </html>
 </source>
 
-* خالي تنه-تمه<sup>''{سربس خأنه}''</sup> (body area) مئنˇ شئه، مرۊرگر تۊنه نماىش بده<ref>http://www.w3schools.com/html/html_intro.asp</ref>. وؤتي گه تنه-تمه مئنأ <code><body></code> ؤ <code><body/></code> هنه ولگˇ مئن دئشا هيسه.
-* سرتمه<sup>''{سربس خأنه}''</sup> (head area) مئن، اطلاعاتي جا گيرن گه هۊ ولگه مربۊطن. اي تمه اطلاعاته مرۊرگر نشؤن دأ مننه ؤ معمۊلا اۊ اطلاعاتي گه اي تمه مئن بنويشته بۊنه، جستجۊگر جيگه'نˇ<ref>جيگه | site | پيشنهاد ورگي | http://v6rg.com/?p=1584</ref> ره کارأىته بۊنه<ref>مهندسي اينترنت، عباسعلي رضائي،انتشارات خط اول،۱۳۹۳. ويراست دوم</ref>. در واقع وؤتي گه سرتمه مئنأ <code><head></code> ؤ <code><head/></code> هنه، وب ولگانه تؤصيف کۊنه.
+* خالي تنه-تمه<sup>''{سربس خأنه}''</sup> (body area) مئنˇ شئه، وبمۊج تۊنه نماىش بده<ref>http://www.w3schools.com/html/html_intro.asp</ref>. وؤتي گه تنه-تمه مئنأ <code><body></code> ؤ <code><body/></code> هنه ولگˇ مئن دئشا هيسه.
+* سرتمه<sup>''{سربس خأنه}''</sup> (head area) مئن، اطلاعاتي جا گيرن گه هۊ ولگه مربۊطن. اي تمه اطلاعاته وبمۊج نشؤن دأ مننه ؤ معمۊلا اۊ اطلاعاتي گه اي تمه مئن بنويشته بۊنه، جستجۊگر جيگه'نˇ<ref>جيگه | site | پيشنهاد ورگي | http://v6rg.com/?p=1584</ref> ره کارأىته بۊنه<ref>مهندسي اينترنت، عباسعلي رضائي،انتشارات خط اول،۱۳۹۳. ويراست دوم</ref>. در واقع وؤتي گه سرتمه مئنأ <code><head></code> ؤ <code><head/></code> هنه، وب ولگانه تؤصيف کۊنه.
 
 ===عنصرؤن===
 عنصر ئچ.تي.ئم.ئلي، ىکته جدا عضو هيسه ئچ.تي.ئم.ئلˇ سندˇ جي. هر عنصر (element) تۊنه خؤره ره ىکته سيوا صفت بدأره ؤ ىکته سيوا مسيرˇ مئن کارأىته وکئه.
@@ -52,7 +52,7 @@
 </head>
 </source>
 
-عنوان (headings):<ref>اينگيليسي ويکي جي گيتن ببئه | https://en.wikipedia.org/wiki/HTML</ref>
+عنوان (headings):<ref>اينگيليسي ويکي جي گيتن بؤبه | https://en.wikipedia.org/wiki/HTML</ref>
 <source lang="html4strict">
 <h1>Heading level 1</h1>
 <h2>Heading level 2</h2>
@@ -62,13 +62,13 @@
 <h6>Heading level 6</h6>
 </source>
 
-پاراگراف:<ref>اينگيليسي ويکي جي گيتن ببئه | https://en.wikipedia.org/wiki/HTML</ref>
+پاراگراف:<ref>اينگيليسي ويکي جي گيتن بؤبه | https://en.wikipedia.org/wiki/HTML</ref>
 <source lang="html4strict"><p>Paragraph 1</p>  <p>Paragraph 2</p></source>
 
-شؤؤن به اؤکته خط (link breaks):<ref>اينگيليسي ويکي جي گيتن ببئه | https://en.wikipedia.org/wiki/HTML</ref>
+شؤؤن به اؤکته خط (link breaks):<ref>اينگيليسي ويکي جي گيتن بؤبه | https://en.wikipedia.org/wiki/HTML</ref>
 <source lang="html4strict"><p>This <br> is a paragraph <br> with <br> line breaks</p></source>
  
-خال زأن:<ref>اينگيليسي ويکي جي گيتن ببئه | https://en.wikipedia.org/wiki/HTML</ref>
+خال زأن:<ref>اينگيليسي ويکي جي گيتن بؤبه | https://en.wikipedia.org/wiki/HTML</ref>
 <source lang="html5"><a href="https://www.wikipedia.org/">A link to Wikipedia!</a></source>
 
 کامنت نأن: کامنت نشؤن بدأ نؤبۊنه و خالي بهتر درک گۊدنˇ شئه.<ref>اينگيليسي ويکي جي گيتن ببئه | https://en.wikipedia.org/wiki/HTML</ref>
@@ -76,9 +76,9 @@
 
 ==<!DOCTYPE>==
 * <!DOCTYPE> ىکته بىانيه هيسه.
-* اي بىانيه، مرۊرگرانه ىاوري کۊنه تا وب ولگانه رسلا نماىش بدن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+* اي بىانيه، [[وبمۊج]]انه ىاوري کۊنه تا [[وب ولگ]]انه رسلأ نماىش بدن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
 * وبˇ مئن چندين ؤ چند جۊر سند نئه گه کسؤنأجي تؤفير دأنن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
-* سندانه رسلا نشؤن دأنˇ ره، مرۊرگر خأ هم نؤع (type) بۊدؤنه و هم ورژنه (version)<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+* سندانه رسلا نشؤن دأنˇ ره، وبمۊج خأ هم نؤع (type) بۊدؤنه و هم ورژنه (version)<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
 
 ==سربس==
 {{جيرنويس}}
