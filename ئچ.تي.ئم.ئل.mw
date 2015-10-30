@@ -1,18 +1,18 @@
-'''ئچ.تي.ئم.ئل''' ىا '''HTML''' ىته اينترنتي زبان ايسه گه اجرا ره نياز به [[وبمۊج]] (browser) دأنه<ref>مهندسي اينترنت، عباسعلي رضائي،انتشارات خط اول،۱۳۹۳. ويراست دوم</ref>. وب رامۊجان، تۊنن ئچ.تي.ئم.ئلˇ فاىلانه بۊخؤنن ؤ وب ولگانه دئشا (visible) وؤ ايشتؤوسشا (audible)<ref>برطبق اؤلگۊى دئشا وؤ خؤردشا، ايشتؤوسشا گيتن ببئه.</ref> بؤنن.
+'''ئچ.تي.ئم.ئل''' ىا '''HTML''' ىته اينترنتي زبان ايسه گه اجرا ره نياز به [[وبمۊج]] (browser) دأنه<ref>مهندسي اينترنت، عباسعلي رضائي،انتشارات خط اول،۱۳۹۳. ويراست دوم</ref>. وبمۊجان، تۊنن ئچ.تي.ئم.ئلˇ فاىلانه بۊخؤنن ؤ وب ولگانه دئشا (visible) وؤ ايشتؤوسشا (audible)<ref>برطبق اؤلگۊى دئشا وؤ خؤردشا، ايشتؤوسشا گيتن بؤبه.</ref> بؤنن.
 
 [[image:HTML.svg|thumb|left|اين ىکته ساده سند هيسه ئج.تي.ئم.ئلˇ جي]]
 
 ==ئچ.تي.ئم.ئل چي هيسه؟==
-ئچ.تي.ئم.ئل (اينگليسي مئن: HTML) ىته نشانه-گذاري زبان هيسه وب ولگانˇ<ref>ولگ | page | پيشنهاد ورگي | http://v6rg.com/?p=1584</ref> تؤصيفˇ ره<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
-* ئچ.تي.ئم.ئل، Hyper Text Markup Language جی گیتن ببئه<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
-* ىته نشانه-گذاري زبان، ىه سري نشانه-گذاري تگانˇ جي تشکيل ببئه<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
-*ئچ.تي.ئم.ئلˇ سندان (HTML documents)، توسط ئچ.تي.ئم.ئلˇ تگان (HTML tags) تؤصيف ببئه<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
-* تگؤن ىا تگان (tags) هر ىته، ىکته سندˇ دل-درۊنئه تؤصيف کؤنن، سنداني گه کسؤنأجي تؤفير دأنن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+ئچ.تي.ئم.ئل (اينگليسي مئن: HTML) ىته نشانه-گذاري زبان هيسه وب ولگانˇ<ref>ولگ | page | پيشنهاد ورگي | http://v6rg.com/?p=1584</ref> تؤصيفˇ ره.<ref>http://www.w3schools.com/html/html_intro.asp</ref>
+* ئچ.تي.ئم.ئل، Hyper Text Markup Language جی گیتن بؤبه.<ref>http://www.w3schools.com/html/html_intro.asp</ref>
+* ىته نشانه-گذاري زبان، ىه سري نشانه-گذاري تگانˇ جي تشکيل بؤبه.<ref>http://www.w3schools.com/html/html_intro.asp</ref>
+*ئچ.تي.ئم.ئلˇ سندان (HTML documents)، توسط ئچ.تي.ئم.ئلˇ تگان (HTML tags) تؤصيف بؤبه.<ref>http://www.w3schools.com/html/html_intro.asp</ref>
+* تگؤن ىا تگان (tags) هر ىته، ىکته سندˇ دل-درۊنئه تؤصيف کؤنن، سنداني گه کسؤنأجي تؤفير دأنن.<ref>http://www.w3schools.com/html/html_intro.asp</ref>
 
 
 
 ==ئچ.تي.ئم.ئلˇ تگان==
-ئچ.تي.ئم.ئلˇ تگان، کيليدي کلمه'ني هيسن گه توسط براکت احاطه وکتأن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+ئچ.تي.ئم.ئلˇ تگان، کيليدي کلمه'ني هيسن گه توسط براکت احاطه وکتأن.<ref>http://www.w3schools.com/html/html_intro.asp</ref>
 
 * <nowiki><تگˇ نام>دله ىا محتوا</تگˇ نام></nowiki>
 * اينˇ اؤرجينال حالت ايته هيسه<ref>http://www.w3schools.com/html/html_intro.asp</ref>: <nowiki><tagname>content</tagname></nowiki>
@@ -20,9 +20,9 @@
 
 
 ==وبمۊجان==
-[[وبمۊج]]ˇ هدفه شأنه ايته واگۊىه گۊتن: ئچ.تي.ئم.ئلˇ سندانه خؤندن ؤ اۊشانه نماىش دأن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+[[وبمۊج]]ˇ هدفه شأنه ايته واگۊىه گۊتن: ئچ.تي.ئم.ئلˇ سندانه خؤندن ؤ اۊشانه نماىش دأن.<ref>http://www.w3schools.com/html/html_intro.asp</ref>
 
-وبمۊجان، ئچ.تي.ئم.ئلˇ تگانه نماىش ندنن، ولي اۊشانه کارأگيرن تا مشخص بؤنن که سندان چۊر و چۊته نماىش بدأ بؤبۊن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+وبمۊجان، ئچ.تي.ئم.ئلˇ تگانه نماىش ندنن، ولي اۊشانه کارأگيرن تا مشخص بؤنن که سندان چۊر و چۊته نماىش بدأ بؤبۊن.<ref>http://www.w3schools.com/html/html_intro.asp</ref>
 
 
 ==ئچ.تي.ئم.ئل ولگˇ ساختار==
@@ -45,7 +45,7 @@
 ===عنصرؤن===
 عنصر ئچ.تي.ئم.ئلي، ىکته جدا عضو هيسه ئچ.تي.ئم.ئلˇ سندˇ جي. هر عنصر (element) تۊنه خؤره ره ىکته سيوا صفت بدأره ؤ ىکته سيوا مسيرˇ مئن کارأىته وکئه.
 
-سرولگ (header):<ref>اينگيليسي ويکي جي گيتن ببئه | https://en.wikipedia.org/wiki/HTML</ref>
+سرولگ (header):<ref>اينگيليسي ويکي جي گيتن بؤبه | https://en.wikipedia.org/wiki/HTML</ref>
 <source lang="html4strict">
 <head>
   <title>The Title</title>
@@ -71,14 +71,14 @@
 خال زأن:<ref>اينگيليسي ويکي جي گيتن بؤبه | https://en.wikipedia.org/wiki/HTML</ref>
 <source lang="html5"><a href="https://www.wikipedia.org/">A link to Wikipedia!</a></source>
 
-کامنت نأن: کامنت نشؤن بدأ نؤبۊنه و خالي بهتر درک گۊدنˇ شئه.<ref>اينگيليسي ويکي جي گيتن ببئه | https://en.wikipedia.org/wiki/HTML</ref>
+کامنت نأن: کامنت نشؤن بدأ نؤبۊنه و خالي بهتر درک گۊدنˇ شئه.<ref>اينگيليسي ويکي جي گيتن بؤبه | https://en.wikipedia.org/wiki/HTML</ref>
 <source lang="html4strict"><!-- This is a comment --></source>
 
 ==<!DOCTYPE>==
 * <!DOCTYPE> ىکته بىانيه هيسه.
-* اي بىانيه، [[وبمۊج]]انه ىاوري کۊنه تا [[وب ولگ]]انه رسلأ نماىش بدن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
-* وبˇ مئن چندين ؤ چند جۊر سند نئه گه کسؤنأجي تؤفير دأنن<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
-* سندانه رسلا نشؤن دأنˇ ره، وبمۊج خأ هم نؤع (type) بۊدؤنه و هم ورژنه (version)<ref>http://www.w3schools.com/html/html_intro.asp</ref>.
+* اي بىانيه، [[وبمۊج]]انه ىاوري کۊنه تا [[وب ولگ]]انه رسلأ نماىش بدن.<ref>http://www.w3schools.com/html/html_intro.asp</ref>
+* وبˇ مئن چندين ؤ چند جۊر سند نئه گه کسؤنأجي تؤفير دأنن.<ref>http://www.w3schools.com/html/html_intro.asp</ref>
+* سندانه رسلا نشؤن دأنˇ ره، وبمۊج خأ هم نؤع (type) بۊدؤنه و هم ورژنه (version).<ref>http://www.w3schools.com/html/html_intro.asp</ref>
 
 ==سربس==
 {{جيرنويس}}
