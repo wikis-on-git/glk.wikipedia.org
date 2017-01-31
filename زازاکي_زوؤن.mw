@@ -37,35 +37,35 @@
 {| class="wikitable"
 !گیلکی ||  زازاکی || فارسی|| اوروسی || یونانی ||  ایتالیایی|| اسپانیولی|| فرانسه|| آلمانی || اینگیلیسی
 |--
-| '''پئر'''|| Pi/Pêr || Pidar || Otets || Pateras || Padro || Padre || Pére || Vater || Father
+| '''پئر'''||Pi|| Pidar || Otets || Pateras || Padro || Padre || Pére || Vater || Father
 |--
-| '''مار'''|| May/Mae || Mader || Mat || Mitera || Madre || Madre || Mére || Mutter || Mother 
+| '''مار'''||Maye|| Mader || Mat || Mitera || Madre || Madre || Mére || Mutter || Mother 
 |--
-| '''برأر'''|| Bra || Brader || Brat || Adelfos || Fratello || Hermano ||  Frére || Bruder || Brother 
+| '''برأر'''||Bıra|| Brader || Brat || Adelfos || Fratello || Hermano ||  Frére || Bruder || Brother 
 |--
-| '''نؤم'''|| NAme || Nam || İmya || Onoma || Nome || Nombre || Non || Name || Name 
+| '''نؤم'''||Name|| Nam || İmya || Onoma || Nome || Nombre || Non || Name || Name 
 |--
 | '''مچه'''|| Lew || Leb || Guba || Cheíli || Labbro || Labio || Lévre || Lippe || Lip
 |--
 | '''مو''' || Ez || Men || Ya || Ego || Io || Estoy || Je || Ich || I 
 |--
-| '''تو'''|| Ti/To/Tu || To || Ti || Eseis || Ti/Te || Te/Ti/Tu || Tu/Toi || Du || You 
+| '''تو'''||Tı|| To || Ti || Eseis || Ti/Te || Te/Ti/Tu || Tu/Toi || Du || You 
 |--
 | '''أمه'''|| Ma || Ma || My || Emais || Nois || Nosotros || Nous || Wir || We 
 |--
 | '''می'''|| Mı || Men || Moĭ || Mou || Mio || Mi || Mon || Mein || My
 |--
-| '''أهأ'''|| Ya || Beli || Da || Nai || Si || Si || Vui || Ja || Yes
+| '''أهأ'''||Eya|| Beli || Da || Nai || Si || Si || Vui || Ja || Yes
 |--
 | '''نأ'''|| Nê || Ne || Ne || Ochi || No || No || Non || Nein || No
 |--
-| '''دله''' || Dı || Der || - || - || Di || De || De || At || Bei
+| '''دله''' ||De|| Der || - || - || Di || De || De || At || Bei
 |--
 | '''شوکا'''|| Ğezale || Gazal || Gazel || Kazélla || Gazzella || Gacela || Gazelle || Gazelle || Gazelle
 |--
 | '''در/ بر''' || Ber || Der || Dvar || Pórta || Porta || Puerta || Portre || Tor || Door 
 |--
-| '''پا/ لگ''' || Pa/Lıng || Pa || Podnozhie || Pódi || Piede || Pata || Pied || Fuß || Foot/Leg 
+| '''پا/ لگ''' ||Pa/Lınge|| Pa || Podnozhie || Pódi || Piede || Pata || Pied || Fuß || Foot/Leg 
 |--
 | '''زمین'''|| Erd || Eradi || - || - || - || - || - || Erde || Earth 
 |--
@@ -73,13 +73,13 @@
 |--
 | '''نؤ'''|| Newe || Nev || Novyi || Néos || Nuovo || Nuevo || Nouveau || Neu || New 
 |--
-| '''پور'''|| Pırr/ Purr || Pur || Polnyi || Pliri || Pieno || Pleno || Plein || Prall || Full
+| '''پور'''||Pırr|| Pur || Polnyi || Pliri || Pieno || Pleno || Plein || Prall || Full
 |--
 | '''گت''' || Gırd || Bozorg || Gromnyi || Megálos || Grande || Gran || Grande || Groß || Great 
 |--
 | '''نوقره'''|| Sêm || Sim || Serebro || Asimi || Argento || Suelto || Argent || Silber || Silver
 |--
-| '''پیچه''' || Kitik || Gerbe || Kot || Gata || Gatto || Gato || Cat || Kitty || Kätzchen 
+| '''پیچه''' ||Pısınge|| Gerbe || Kot || Gata || Gatto || Gato || Cat || Kitty || Kätzchen 
 |--
 | '''وِرگ''' || Verg || - || Volk || - || - || - || - || Wolf || Wolf 
 |--
@@ -97,17 +97,17 @@
 |--
 | '''گرزه''' || Mere || Mosh || Mysh || - || Mouse || - || - || Maus || Mouse
 |--
-| '''-''' || Tenik || Tenek || Tonki || - || - || - || - || Dünn || Thin
+| '''-''' ||Tenık|| Tenek || Tonki || - || - || - || - || Dünn || Thin
 |--
-| '''لمبو''' || Limon || Limun || Limon || Lemoni || Limone || Limón || - || - || Lemon
+| '''لمبو''' ||Lêmone|| Limun || Limon || Lemoni || Limone || Limón || - || - || Lemon
 |--
-| '''باقله'''|| Bagile || Baghla || Bob || - || - || Haba || - || Bohne || Bean 
+| '''باقله'''||Beqla|| Baghla || Bob || - || - || Haba || - || Bohne || Bean 
 |--
-| '''آؤ'''|| Aw || Ab || - || - || Acqua || Agua || Aqua/Eau || Aqua/Water || -
+| '''آؤ'''||Awe|| Ab || - || - || Acqua || Agua || Aqua/Eau || Aqua/Water || -
 |--
 | '''ور/ پیش'''|| Ver ||Ber || Vront/Pered || Pro || Fronte || Frente || Ventral/Avant || Vor || Front/Pre
 |-- 
-| '''ولگ''' || Pel/Pelga || Safiha || Pazh || - || Pagino || Página || Page || Page/Seite || Page
+| '''ولگ''' ||Pele/Pelge|| Safiha || Pazh || - || Pagino || Página || Page || Page/Seite || Page
 |--
 | '''خؤرؤم/ خار''' || Weş || Aveh || Vpolne || - || - || - || - || Wohl || Well
 |}
