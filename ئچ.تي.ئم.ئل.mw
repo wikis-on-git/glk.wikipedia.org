@@ -1,17 +1,17 @@
 '''ئچ.تي.ئم.ئل''' ىا '''HTML''' ىته اينترنتي زبان ايسه گه اجرا ره نياز به [[وبمۊج]] (browser) دأنه<ref>مهندسي اينترنت، عباسعلي رضائي،انتشارات خط اول،۱۳۹۳. ويراست دوم</ref>. وبمۊجان، تۊنن ئچ.تي.ئم.ئلˇ فاىلانه بۊخؤنن ؤ وب ولگانه دئشا (visible) وؤ ايشتؤوسشا (audible)<ref>برطبق اؤلگۊى دئشا وؤ خؤردشا، ايشتؤوسشا گيتن بؤبه.</ref> بؤنن.
 
-[[image:HTML.svg|thumb|left|اين ىکته ساده سند هيسه ئج.تي.ئم.ئلˇ جي]]
+[[فاىل:HTML.svg|بندانگشتی|چپ|اين ىکته ساده سند هيسه ئج.تي.ئم.ئلˇ جي]]
 
-==ئچ.تي.ئم.ئل چي هيسه؟==
+== ئچ.تي.ئم.ئل چي هيسه؟ ==
 ئچ.تي.ئم.ئل (اينگليسي مئن: HTML) ىته نشانه-گذاري زبان هيسه وب ولگانˇ<ref>ولگ | page | پيشنهاد ورگي | http://v۶rg.com/?p=۱۵۸۴</ref> تؤصيفˇ ره.<ref>http://www.w۳schools.com/html/html_intro.asp</ref>
 * ئچ.تي.ئم.ئل، Hyper Text Markup Language جی گیتن بؤبه.<ref>http://www.w۳schools.com/html/html_intro.asp</ref>
 * ىته نشانه-گذاري زبان، ىه سري نشانه-گذاري تگانˇ جي تشکيل بؤبه.<ref>http://www.w۳schools.com/html/html_intro.asp</ref>
-*ئچ.تي.ئم.ئلˇ سندان (HTML documents)، توسط ئچ.تي.ئم.ئلˇ تگان (HTML tags) تؤصيف بؤبه.<ref>http://www.w۳schools.com/html/html_intro.asp</ref>
+* ئچ.تي.ئم.ئلˇ سندان (HTML documents)، توسط ئچ.تي.ئم.ئلˇ تگان (HTML tags) تؤصيف بؤبه.<ref>http://www.w۳schools.com/html/html_intro.asp</ref>
 * تگؤن ىا تگان (tags) هر ىته، ىکته سندˇ دل-درۊنئه تؤصيف کؤنن، سنداني گه کسؤنأجي تؤفير دأنن.<ref>http://www.w۳schools.com/html/html_intro.asp</ref>
 
 
 
-==ئچ.تي.ئم.ئلˇ تگان==
+== ئچ.تي.ئم.ئلˇ تگان ==
 ئچ.تي.ئم.ئلˇ تگان، کيليدي کلمه'ني هيسن گه توسط براکت احاطه وکتأن.<ref>http://www.w۳schools.com/html/html_intro.asp</ref>
 
 * <nowiki><تگˇ نام>دله ىا محتوا</تگˇ نام></nowiki>
@@ -19,15 +19,15 @@
 
 
 
-==وبمۊجان==
+== وبمۊجان ==
 [[وبمۊج]]ˇ هدفه شأنه ايته واگۊىه گۊتن: ئچ.تي.ئم.ئلˇ سندانه خؤندن ؤ اۊشانه نماىش دأن.<ref>http://www.w۳schools.com/html/html_intro.asp</ref>
 
 وبمۊجان، ئچ.تي.ئم.ئلˇ تگانه نماىش ندنن، ولي اۊشانه کارأگيرن تا مشخص بؤنن که سندان چۊر و چۊته نماىش بدأ بؤبۊن.<ref>http://www.w۳schools.com/html/html_intro.asp</ref>
 
 
-==ئچ.تي.ئم.ئل ولگˇ ساختار==
+== ئچ.تي.ئم.ئل ولگˇ ساختار ==
 اي جير، ىکته کلاسيک مثال بأرده بؤبؤى گه ۹ ته کدنويسي بؤبؤ رچ دأنه.
-<source lang="html۵">
+<syntaxhighlight lang="html۵">
 <!DOCTYPE html>
 <html>
   <head>
@@ -37,48 +37,48 @@
     <p>Hello world!</p>
   </body>
 </html>
-</source>
+</syntaxhighlight>
 
 * خالي تنه-تمه<sup>''{سربس خأنه}''</sup> (body area) مئنˇ شئه، وبمۊج تۊنه نماىش بده<ref>http://www.w۳schools.com/html/html_intro.asp</ref>. وؤتي گه تنه-تمه مئنأ <code><body></code> ؤ <code><body/></code> هنه ولگˇ مئن دئشا هيسه.
 * سرتمه<sup>''{سربس خأنه}''</sup> (head area) مئن، اطلاعاتي جا گيرن گه هۊ ولگه مربۊطن. اي تمه اطلاعاته وبمۊج نشؤن دأ مننه ؤ معمۊلا اۊ اطلاعاتي گه اي تمه مئن بنويشته بۊنه، جستجۊگر جيگه'نˇ<ref>جيگه | site | پيشنهاد ورگي | http://v۶rg.com/?p=۱۵۸۴</ref> ره کارأىته بۊنه<ref>مهندسي اينترنت، عباسعلي رضائي،انتشارات خط اول،۱۳۹۳. ويراست دوم</ref>. در واقع وؤتي گه سرتمه مئنأ <code><head></code> ؤ <code><head/></code> هنه، وب ولگانه تؤصيف کۊنه.
 
-===عنصرؤن===
+=== عنصرؤن ===
 عنصر ئچ.تي.ئم.ئلي، ىکته جدا عضو هيسه ئچ.تي.ئم.ئلˇ سندˇ جي. هر عنصر (element) تۊنه خؤره ره ىکته سيوا صفت بدأره ؤ ىکته سيوا مسيرˇ مئن کارأىته وکئه.
 
 سرولگ (header):<ref>اينگيليسي ويکي جي گيتن بؤبه | https://en.wikipedia.org/wiki/HTML</ref>
-<source lang="html۴strict">
+<syntaxhighlight lang="html۴strict">
 <head>
   <title>The Title</title>
 </head>
-</source>
+</syntaxhighlight>
 
 عنوان (headings):<ref>اينگيليسي ويکي جي گيتن بؤبه | https://en.wikipedia.org/wiki/HTML</ref>
-<source lang="html۴strict">
+<syntaxhighlight lang="html۴strict">
 <h۱>Heading level ۱</h۱>
 <h۲>Heading level ۲</h۲>
 <h۳>Heading level ۳</h۳>
 <h۴>Heading level ۴</h۴>
 <h۵>Heading level ۵</h۵>
 <h۶>Heading level ۶</h۶>
-</source>
+</syntaxhighlight>
 
 پاراگراف:<ref>اينگيليسي ويکي جي گيتن بؤبه | https://en.wikipedia.org/wiki/HTML</ref>
-<source lang="html۴strict"><p>Paragraph ۱</p>  <p>Paragraph ۲</p></source>
+<syntaxhighlight lang="html۴strict"><p>Paragraph ۱</p>  <p>Paragraph ۲</p></syntaxhighlight>
 
 شؤؤن به اؤکته خط (link breaks):<ref>اينگيليسي ويکي جي گيتن بؤبه | https://en.wikipedia.org/wiki/HTML</ref>
-<source lang="html۴strict"><p>This <br> is a paragraph <br> with <br> line breaks</p></source>
+<syntaxhighlight lang="html۴strict"><p>This <br> is a paragraph <br> with <br> line breaks</p></syntaxhighlight>
  
 خال زأن:<ref>اينگيليسي ويکي جي گيتن بؤبه | https://en.wikipedia.org/wiki/HTML</ref>
-<source lang="html۵"><a href="https://www.wikipedia.org/">A link to Wikipedia!</a></source>
+<syntaxhighlight lang="html۵"><a href="https://www.wikipedia.org/">A link to Wikipedia!</a></syntaxhighlight>
 
 کامنت نأن: کامنت نشؤن بدأ نؤبۊنه و خالي بهتر درک گۊدنˇ شئه.<ref>اينگيليسي ويکي جي گيتن بؤبه | https://en.wikipedia.org/wiki/HTML</ref>
-<source lang="html۴strict"><!-- This is a comment --></source>
+<syntaxhighlight lang="html۴strict"><!-- This is a comment --></syntaxhighlight>
 
-==<!DOCTYPE>==
+== <!DOCTYPE> ==
 * <!DOCTYPE> ىکته بىانيه هيسه.
 * اي بىانيه، [[وبمۊج]]انه ىاوري کۊنه تا [[وب ولگ]]انه رسلأ نماىش بدن.<ref>http://www.w۳schools.com/html/html_intro.asp</ref>
 * وبˇ مئن چندين ؤ چند جۊر سند نئه گه کسؤنأجي تؤفير دأنن.<ref>http://www.w۳schools.com/html/html_intro.asp</ref>
 * سندانه رسلا نشؤن دأنˇ ره، وبمۊج خأ هم نؤع (type) بۊدؤنه و هم ورژنه (version).<ref>http://www.w۳schools.com/html/html_intro.asp</ref>
 
-==سربس==
+== سربس ==
 {{جيرنويس}}
