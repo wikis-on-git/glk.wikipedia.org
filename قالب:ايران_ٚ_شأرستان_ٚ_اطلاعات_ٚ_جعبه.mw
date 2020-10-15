@@ -1,7 +1,7 @@
 <includeonly>{| border="0" cellpadding="2" cellspacing="1" style="float:left; empty-cells:show; margin-right:0em; margin-left:1em; margin-bottom:0.5em; background:#e3e3e3;"
-! colspan="2" bgcolor="BBDDFF" | {{{رسمي نام}}}{{#if:{{{تاتايي|}}}|<br/>
+! colspan="2" bgcolor="BBDDFF" | {{{رسمي نام}}}{{#if:{{{image|}}}|<br/>
 {{!}}-bgcolor="#FFFFFF"
-{{!}} colspan="2" align="center" bgcolor="#FFFFFF" {{!}} [[تاتايي:{{{تاتايي}}}|center|{{#if:{{{تاتايي ود|}}}|{{{تاتايي ود}}}px|200px}}|{{#if:{{{تاتايي تؤضيح|}}}|{{{تاتايي تؤضيح}}}|ايته تاتايي {{{رسمي نام}}}ˇ جه}}]]
+{{!}} colspan="2" align="center" bgcolor="#FFFFFF" {{!}} [[image:{{{image}}}|center|{{#if:{{{Image Size|}}}|{{{Image Size}}}px|200px}}|{{#if:{{{تاتايي تؤضيح|}}}|{{{تاتايي تؤضيح}}}|ايته تاتايي {{{رسمي نام}}}ˇ جه}}]]
 |{{#if:{{{جۊغرافيايی عرض‌|}}}|{{#if:{{{جۊغرافيايي طۊل‌|}}}|<br/>
 {{!}}-bgcolor="#FFFFFF"
 {{!}} colspan="2" align="center" bgcolor="#FFFFFF" {{!}} {{روی نقشه{{!}}ایران{{!}}label={{{رسمي نام}}}{{!}}position=center{{!}}width={{{Image Size|200}}}{{!}}lat={{{جۊغرافيايی عرض}}}{{!}}long={{{جۊغرافيايی طۊل‌}}}|caption={{!}}float=center}}|}}|}}|}}
@@ -172,8 +172,8 @@
 |روی‌نقشه= هردو
 |جۊغرافيايي عرض=34.69
 |جۊغرافيايي طۊل=50.02
-|تاتايي= shahyad.jpg
-|اندازه‌تصویر= 280
+|image= shahyad.jpg
+|image size= 280
 |برچسب‌تصویر= میدان آزادی
 |شأردار= محمدباقر قالیباف
 |اۊستان= تئران
