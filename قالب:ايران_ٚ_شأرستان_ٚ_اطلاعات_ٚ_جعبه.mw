@@ -1,7 +1,7 @@
 <includeonly>{| border="0" cellpadding="2" cellspacing="1" style="float:left; empty-cells:show; margin-right:0em; margin-left:1em; margin-bottom:0.5em; background:#e3e3e3;"
-! colspan="2" bgcolor="BBDDFF" | {{{رسمي نام}}}{{#if:{{{image|}}}|<br/>
+! colspan="2" bgcolor="BBDDFF" | {{{رسمي نام}}}{{#if:{{{تاتايي|}}}|<br/>
 {{!}}-bgcolor="#FFFFFF"
-{{!}} colspan="2" align="center" bgcolor="#FFFFFF" {{!}} [[تاتايي:{{{تاتايي}}}|center|{{#if:{{{Image Size|}}}|{{{Image Size}}}px|200px}}|{{#if:{{{تاتايي تؤضيح|}}}|{{{تاتايي تؤضيح}}}|ايته تاتايي جه {{{رسمي نام}}}}}]]
+{{!}} colspan="2" align="center" bgcolor="#FFFFFF" {{!}} [[تاتايي:{{{تاتايي}}}|center|{{#if:{{{تاتايي Size|}}}|{{{Image Size}}}px|200px}}|{{#if:{{{تاتايي تؤضيح|}}}|{{{تاتايي تؤضيح}}}|ايته تاتايي جه {{{رسمي نام}}}}}]]
 |{{#if:{{{جۊغرافيايی عرض‌|}}}|{{#if:{{{جۊغرافيايي طۊل‌|}}}|<br/>
 {{!}}-bgcolor="#FFFFFF"
 {{!}} colspan="2" align="center" bgcolor="#FFFFFF" {{!}} {{روی نقشه{{!}}ایران{{!}}label={{{رسمي نام}}}{{!}}position=center{{!}}width={{{Image Size|200}}}{{!}}lat={{{جۊغرافيايی عرض}}}{{!}}long={{{جۊغرافيايی طۊل‌}}}|caption={{!}}float=center}}|}}|}}|}}
