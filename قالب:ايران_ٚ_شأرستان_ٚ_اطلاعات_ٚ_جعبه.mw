@@ -1,12 +1,10 @@
-<includeonly>{| border="0" cellpadding="2" cellspacing="1" style="float:left; empty-cells:show; margin-right:0em; margin-left:1em; margin-bottom:0.5em; background:#e3e3e3;"
-! colspan="2" bgcolor="BBDDFF" | {{{رسمي نام}}}{{#if:{{{image|}}}|<br/>
+<includeonly>{| border="0" cellpadding="2" cellspacing="1" style="float:left; empty-cells:show; margin-right:1em; margin-left:0em; margin-bottom:0.5em; background:#e3e3e3;"
+! colspan="2" bgcolor="66cdaa" | {{{رسمي نام}}}{{#اگر:{{{تصویر|}}}|<br/>
 {{!}}-bgcolor="#FFFFFF"
-{{!}} colspan="2" align="center" bgcolor="#FFFFFF" {{!}} [[image:{{{image}}}|center|{{#if:{{{Image Size|}}}|{{{Image Size}}}px|200px}}|{{#if:{{{تاتايي تؤضيح|}}}|{{{تاتايي تؤضيح}}}|ايته تاتايي {{{رسمي نام}}}ˇ جه}}]]
-|{{#if:{{{جۊغرافيايی عرض‌|}}}|{{#if:{{{جۊغرافيايي طۊل‌|}}}|<br/>
-{{!}}-bgcolor="#FFFFFF"
-{{!}} colspan="2" align="center" bgcolor="#FFFFFF" {{!}} {{روی نقشه{{!}}ایران{{!}}label={{{رسمي نام}}}{{!}}position=center{{!}}width={{{Image Size|200}}}{{!}}lat={{{جۊغرافيايی عرض}}}{{!}}long={{{جۊغرافيايی طۊل‌}}}|caption={{!}}float=center}}|}}|}}|}}
+{{!}} colspan="2" align="center" bgcolor="#FFFFFF" {{!}} [[پرونده:{{{تصویر}}}|center|{{formatnum:{{#اگر:{{{اندازه‌تصویر|}}}|{{{اندازه‌تصویر}}}px|200px}}|R}}|{{#اگر:{{{برچسب‌تصویر|}}}|{{{برچسب‌تصویر}}}|ايته تاتايي {{{رسمي نام}}}ˇ جه}}]]|}}
 |-
-!colspan="2" bgcolor="BBDDFF" | اطلاعات کلی
+!colspan="2" bgcolor="BBDDFF" |
+کلي اطلاعات 
 |-bgcolor="#FFFFFF"
 |رسمي نام : || {{{رسمي نام}}}
 |-bgcolor="#FFFFFF"
@@ -32,12 +30,10 @@
 {{!}} {{{شأر بؤستنˇ سال}}}|}}{{#if:{{{image|}}}|
 {{#if:{{{جۊغرافيايي عرض|}}}|{{#if:{{{جۊغرافيايي طۊل|}}}|<br/>
 {{!}}-bgcolor="#FFFFFF"
-{{!}} colspan="2" align="center" bgcolor="#FFFFFF" {{!}} {{روی نقشه{{!}}ایران{{!}}label={{{رسمي نام}}}{{!}}position=center{{!}}width={{{Image Size|200}}}{{!}}lat={{{جۊغرافيايي عرض}}}{{!}}long={{{جۊغرافيايي طۊل}}}|caption={{!}}float=center}}
-{{!}}-|}}|}}|}}{{ #if: {{{جمعيت|}}}{{{جمعيتˇ رشد|}}}{{{جمعيتˇ تراکؤم|}}}{{{زوان|}}}{{{مذهب|}}}|<br/>
+{{!}} colspan="2" align="center" bgcolor="#FFFFFF" {{!}} {{روی نقشه|ایران|label={{{رسمي نام}}}|position=center|width={{#اگر:{{{اندازه‌تصویر|}}}|{{{اندازه‌تصویر}}}|200}}|lat={{{جۊغرافيايي عرض}}}|long={{{جۊغرافيايي طۊل}}}|caption=|float=center}}|}}|}}
 {{!}}-
-!colspan="2" bgcolor="BBDDFF" {{!}} مردۊم{{#if:{{{جمعيت|}}}|<br/>
-{{!-}}
-{{!}}-bgcolor="#FFFFFF" 
+!colspan="2" bgcolor="66cdaa" {{!}} مردۊم{{#اگر:{{{جمعيت|}}}|<br/>
+{{!}}-bgcolor="#FFFFFF"  
 {{!}}جمعيت {{!}}{{!}} {{{جمعيت}}}}}{{#if:{{{جمعيتˇ رشد|}}}|<br/>
 {{!}}-bgcolor="#FFFFFF" 
 {{!}}جمعيتˇ رشد : {{!}}{{!}} {{{جمعیتˇ رشد}}}}}{{#if:{{{جمعيتˇ تراکؤم|}}}|<br/>
@@ -46,11 +42,11 @@
 {{!}}-bgcolor="#FFFFFF" 
 {{!}}زوان: {{!}}{{!}} {{{زوان}}}}}{{#if:{{{مذهب|}}}|<br/>
 {{!}}-bgcolor="#FFFFFF" 
-{{!}}مذهب: {{!}}{{!}} {{{مذهب}}}|}}|}}{{#if:{{{مساحت|}}}{{{ارتفاع|}}}|<br/>
+{{!}}مذهب: {{!}}{{!}} {{{مذهب}}}|}}|}}{{#if:{{{پيلکي|}}}{{{ارتفاع|}}}|<br/>
 {{!}}-
-!colspan="2" bgcolor="BBDDFF" {{!}} جغرافیای طبیعی{{#if:{{{مساحت|}}}|<br/>
+!colspan="2" bgcolor="BBDDFF" {{!}} جغرافیای طبیعی{{#if:{{{پيلکي|}}}|<br/>
 {{!}}-bgcolor="#FFFFFF" 
-{{!}}مساحت: {{!}}{{!}} {{{مساحت}}}}}{{#if:{{{ارتفاع|}}}|<br/>
+{{!}}پيلکي: {{!}}{{!}} {{{پيلکي}}}}}{{#if:{{{ارتفاع|}}}|<br/>
 {{!}}-bgcolor="#FFFFFF" 
 {{!}}بۊلندي گرˇ جه : {{!}}{{!}} {{{ارتفاع}}}|}}|}}{{ #if: {{{دما ميانگين|}}}{{{سالانه وارشˇ ميانگين|}}}{{{شمارروزهای‌یخبندان|}}}|<br/>
 {{!}}-
