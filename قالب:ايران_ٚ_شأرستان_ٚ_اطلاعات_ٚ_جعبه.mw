@@ -10,7 +10,10 @@
 |-bgcolor="#FFFFFF"
 |کشور : || [[ایران]] [[Image:Flag of Iran.svg|20px]]
 |-bgcolor="#FFFFFF"
-|اۊستان : || اۊستان {{{اۊستان}}}|{{{اۊستان}}}
+{{#if:{{{اۊستان|}}}|<br/>
+{{!}}-bgcolor="#FFFFFF"
+{{!}}اۊستان : 
+{{!}} {{{اۊستان}}}|}}
 |-bgcolor="#FFFFFF"
 {{#if:{{{بخشان|}}}|<br/>
 {{!}}-bgcolor="#FFFFFF"
