@@ -1,7 +1,7 @@
 <includeonly>{| border="0" cellpadding="2" cellspacing="1" style="float:left; empty-cells:show; margin-right:0em; margin-left:1em; margin-bottom:0.5em; background:#e3e3e3;"
 ! colspan="2" bgcolor="66cdaa" | {{{نام}}}{{#if:{{{تصویر|}}}|<br/>
 {{!}}-bgcolor="#FFFFFF"
-{{!}} colspan="2" align="center" bgcolor="#FFFFFF" {{!}} [[پرونده:{{{تصویر}}}|center|{{formatnum:{{#اگر:{{{اندازه‌تصویر|}}}|{{{اندازه‌تصویر}}}px|250px}}|R}}|{{#اگر:{{{برچسب‌تصویر|}}}|{{{برچسب‌تصویر}}}|ايته تاتايي {{{رسمي نام}}}ˇ جه}}]]|}}
+{{!}} colspan="2" align="center" bgcolor="#FFFFFF" {{!}} [[پرونده:{{{تصویر}}}|center|{{formatnum:{{#اگر:{{{اندازه‌تصویر|}}}|{{{اندازه‌تصویر}}}px|300px}}|R}}|{{#اگر:{{{برچسب‌تصویر|}}}|{{{برچسب‌تصویر}}}|ايته تاتايي {{{رسمي نام}}}ˇ جه}}]]|}}
 |-
 !colspan="2" bgcolor="66cdaa" | 
 کلي اطلاعات 
