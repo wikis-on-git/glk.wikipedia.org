@@ -1,6 +1,5 @@
-<div style="float: right; border:solid {{{1|#000}}} 1px; margin: 1px;">
-{| cellspacing="0" style="width: 240px; background: {{{2|#1c89c1}}};"
-| style="width: 55px; height: 55px; background: {{{1|#ffffff}}}; text-align: center; font-size: {{{5|{{{id-s|14}}}}}}pt; color: {{{id-fc|black}}};" | '''{{{3|[[فاىل:Bandar e Anzali Iran - panoramio.jpg|55px]]}}}'''
-| style="font-size: 8pt; padding: 4pt; line-height: 1.25em; color: #000;" | أ کارگير [[أنزلي]] شين ايسه ىا أنزلي-أ دۊس دره. 
-|}</div>
-<noinclude>
+{| cellspacing="0" style="direction:rtl; font-family:Tahoma; text-align:center; font-size:8pt; height:55px;  width:240px; border:1px solid #000; background:#1c89c1;"
+| style="background:#1c89c1;" | [[فاىل:Bandar e Anzali Iran - panoramio.jpg|80px]]
+| style="padding-right:5px; line-height:1.5em; color:000;" | أ کارگير [[أنزلي]] شين ايسه ىا أنزلي-أ دۊس دره. 
+|}
+<includeonly></includeonly>
