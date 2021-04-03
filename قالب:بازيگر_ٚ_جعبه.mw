@@ -5,7 +5,7 @@
 ! colspan="2" style="text-align:center; font-size:larger; background-color:{{#اگر:{{{بمردنˇ رۊج|}}}|silver|&#35;ed8}}; color:#000;" class="fn" | {{{نام|{{PAGENAME}}}}}
 |-
 {{#اگر:{{{تصویر|}}}|
-{{!}} colspan="2" style="text-align:center; font-size:110%;" {{|{{{تصویر}}}}} {{!}} [[پرونده:{{{تصویر}}}|{{#اگر:{{{اندازه تصویر|}}}|{{{اندازه تصویر}}}|220px}}]]<br /><small>{{{توضیح تصویر|}}}</small>
+{{!}} colspan="2" style="text-align:center; font-size:110%;" {{{{{تصویر}}}}} {{!}} [[پرونده:{{{تصویر}}}|{{#اگر:{{{اندازه تصویر|}}}|{{{اندازه تصویر}}}|220px}}]]<br /><small>{{{توضیح تصویر|}}}</small>
 {{!}}-
 }}
 {{#اگر:{{{أصلي نام|}}} |
