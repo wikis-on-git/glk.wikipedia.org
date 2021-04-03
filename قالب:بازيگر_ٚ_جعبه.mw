@@ -1,7 +1,7 @@
 <noinclude>
 {{ #ifeq: {{SUBPAGENAME}} |sandbox|{{Template sandbox notice}}}}
 {{ #ifeq: {{FULLPAGENAME}} |قالب:جعبه بازیگر|{{pp-template|small=yes}}}}
-</noinclude>{| class="infobox vcard" style="width:{{{box_width|22em}}}; font-size:75%; text-align:right;"
+</noinclude>{| class="infobox vcard" style="width:{{{box_width|22em}}}; font-size:100%; text-align:right;"
 ! colspan="2" style="text-align:center; font-size:larger; background-color:{{#اگر:{{{بمردنˇ رۊج|}}}|silver|&#35;ed8}}; color:#000;" class="fn" | {{{نام|{{PAGENAME}}}}}
 |-
 {{#if:{{{تصویر|}}}|<br/>
