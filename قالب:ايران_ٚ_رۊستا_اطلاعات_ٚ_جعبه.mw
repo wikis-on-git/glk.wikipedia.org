@@ -2,7 +2,7 @@
 | bodyclass    = infobox geography vcard
 |labelstyle = background:#F2F2F2;
 |datastyle = width:60%;
-|headerstyle = background:#7BA05B; color:ivory;
+|headerstyle = background:#008000; color:ivory;
 |title   = {{{رسمي نام}}}
 |titleclass = fn
 |image   = {{#اگر:{{{تصویر|}}}|[[پرونده:{{{تصویر}}}{{!}}center{{!}}{{#اگر:{{{تصویراندازه|}}}|{{{تصویراندازه}}}px|200px}}{{!}}{{#اگر:{{{تصویربرچسب|}}}|{{{تصویربرچسب}}}|ايته تاتايي {{{رسمي نام}}}ˇ جه}}]]|}}
