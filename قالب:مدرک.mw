@@ -1,14 +1,4 @@
-
-
-{{Infobox
-|link=:fa:ویکی‌پدیا:اثبات‌پذیری
-|text={{{1|منبع خأیه}}}
-|class=noprint Template-Fact
-|date={{{2|}}}
-|cat=[[رده:وانیویسؤنی که سربس خأییدی]]
-|cat-date=رده:وانیویسؤنی که سربس خأییدی}}<noinclude>
-{{documentation}}
-</includeonly><noinclude>
+<sup>''<nowiki>[</nowiki>{{#اگر:{{{1|}}}|[[ویکی‌پدیا:سربس‌نویسی{{!}}{{{1}}}]]|[[ویکی‌پدیا:سربس‌نویسی{{!}}سربس خأیه]]}}<nowiki>]</nowiki>''<includeonly></includeonly></sup><includeonly>{{#اif: {{{2|}}}|[[رده:وانیویسؤنی که سربس خأییدی/{{{2}}}]]|[[رده:وانیویسؤنی که سربس خأییدی]]}}</includeonly><noinclude>
 {{نحش}}
 
 ==شیوهٔ استفاده==
