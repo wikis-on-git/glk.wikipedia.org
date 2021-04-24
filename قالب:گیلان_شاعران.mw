@@ -1,7 +1,8 @@
-{| style="border:1px solid #CC9900; margin-bottom: 1em" cellspacing="0" cellpadding="5" width="100%"
-| style="font: color:black" align="center" bgcolor="#ECE5CA" |'''گیلان شاعران'''
-|-
-| style="border-top:1px solid #CC9900;" align="center" bgcolor="#F9F8F0" |
+{{Navbox
+|name  = گیلکی شاعران
+|title = [[گیلکی ادبیات|<span style="color:#000000;">گیلان شاعران</span>]]
+|image = 
+|list  = 
 [[ابوالقاسم نزهت سرشت]]{{•}}
 [[حسن تقی پور]]{{•}}
 [[مرتضی کریمی]]{{•}}
@@ -45,8 +46,4 @@
 [[ایرج هدایتی]]{{•}}
 [[الهام کیانپور]]{{•}}
 [[پروانه محمدنژاد]]
-
-[[رده:هونر]]
-[[رده:ادب]]
-[[رده:دانش]]
-[[رده:مردوم]]
+}}
