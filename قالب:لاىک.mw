@@ -1,0 +1,6 @@
+{{#switch:{{lc:{{{icon|}}}}}
+|old = <span style="display:inline-block;padding:0 .5em;line-height:1.80em;border:1px solid; {{border-radius|3px}}; text-align:center;">[[File:{{{image|Symbol thumbs up.svg}}} |text-top|link=|alt=👍|16px]]&nbsp;{{#if:{{{num|}}}|{{{num|}}} {{PLURAL:{{{num|}}}|user {{{1|likes}}}|users {{{1|like}}}}} this.|{{#if:{{{username|}}}| [[User:{{{username|}}}|{{{username|}}}]] likes this.|{{{1|لایک}}}}}}}</span>
+|fb = <span style="display:inline-block;padding:0 .5em;line-height:1.80em;border:1px solid #CAD4E7; font-family:'Lucida Grande',Tahoma,Verdana,sans-serif; {{border-radius|3px}} background:#ECEEF5; text-align:center;">[[File:{{{image|Facebook like thumb.png}}} |text-top|link=|alt=👍|16px]]&nbsp;<span style="color:#3B5998;">{{#if:{{{num|}}}|{{{num|}}} {{PLURAL:{{{num|}}}|user {{{1|likes}}}|users {{{1|like}}}}} this.|{{#if:{{{username|}}}| [[User:{{{username|}}}|{{{username|}}}]] likes this.|{{{1|لایک}}}}}}}</span></span>
+|[[File:{{{image|Wikipedia like SVG.svg}}} |25px|link=|alt=👍]] '''{{#if:{{{num|}}}|{{{num|}}} {{PLURAL:{{{num|}}}|user {{{1|likes}}}|users {{{1|like}}}}} this.|{{#if:{{{username|}}}| [[User:{{{username|}}}|{{{username|}}}]] likes this.|{{{1|لایک}}}}}}}'''}}<noinclude>
+{{documentation}}
+</noinclude>
