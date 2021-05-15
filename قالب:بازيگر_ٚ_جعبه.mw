@@ -104,6 +104,10 @@
 {{!}} {{{وب‌گاه|{{{صفحه اصلی|}}}}}}
 {{!}}-
 }}
+{{#اگر:{{{ايمضا|}}} |
+! ايمضا {{#invoke:InfoboxImage|InfoboxImage|image={{{signature|}}}|size={{{signature_size|}}}|sizedefault=150px|alt={{{signature alt|{{{signature_alt|}}}}}}}}
+{{!}}-
+}}
 {{#اگر:{{{imdb_id|}}}|
 ! style="font-size: 100%;" align="center" colspan="2" {{!}} '''[http://www.imdb.com/name/nm{{formatnum:{{{imdb_id|}}}|R}}/ بازيگرˇ أصلي ولگ IMDb مئن]'''
 {{!}}-
