@@ -104,7 +104,8 @@
 {{!}} {{{وب‌گاه|{{{صفحه اصلی|}}}}}}
 {{!}}-
 }}
-{{#if:{{{signature|}}}|ايمضا}} {{#invoke:InfoboxImage|InfoboxImage|image={{{signature|}}}|size={{{signature_size|}}}|sizedefault=150px|alt={{{signature alt|{{{signature_alt|}}}}}}}}
+{{#اگر:{{{ايمضا|}}} |
+! ایمضا {{#invoke:InfoboxImage|InfoboxImage|image={{{ايمضا|}}}|size={{{signature_size|}}}|sizedefault=150px|alt={{{signature alt|{{{signature_alt|}}}}}}}}
 {{!}}-
 }}
 {{#اگر:{{{imdb_id|}}}|
