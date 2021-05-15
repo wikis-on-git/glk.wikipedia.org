@@ -4,10 +4,12 @@
 </noinclude>{| class="infobox vcard" style="width:{{{box_width|22em}}}; font-size:100%; text-align:right;"
 ! colspan="2" style="text-align:center; font-size:larger; background-color:{{#اگر:{{{بمردنˇ رۊج|}}}|silver|&#35;ed8}}; color:#000;" class="fn" | {{{نام|{{PAGENAME}}}}}
 |-
-{{#if:{{{تصویر|}}}|<br/>
+{{#اگر:{{{تصویر|}}}|<br/>
 {{!}}-bgcolor="#FFFFFF"
 {{!}} colspan="2" align="center" bgcolor="#FFFFFF" {{!}} [[پرونده:{{{تصویر}}}|center|{{formatnum:{{#اگر:{{{اندازه‌تصویر|}}}|{{{اندازه‌تصویر}}}px|300px}}|R}}|{{#اگر:{{{برچسب‌تصویر|}}}|{{{برچسب‌تصویر}}}|ايته تاتايي {{{أصلي نام}}}ˇ جه}}]]|}}
 {{!}}-
+{{#اگر:{{{توضیح تصویر}}} | {{{image caption|{{{توضیح تصویر{{{image_caption|}}}}}}}}}
+
 {{#اگر:{{{أصلي نام|}}} |
 ! width="85" {{!}} أصلي نام
 {{!}} {{{أصلي نام}}}
