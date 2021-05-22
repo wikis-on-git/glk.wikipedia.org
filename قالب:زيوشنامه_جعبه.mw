@@ -1,227 +1,114 @@
-{{Infobox|child={{{child|}}}
-| bodyclass  = biography vcard
-
-| above      = {{Br separated entries
- | 1 = {{#if:{{{honorific prefix|{{{honorific_prefix|}}}}}}|<span class="honorific-prefix" style="font-size: small">{{{honorific prefix|{{{honorific_prefix|}}}}}}</span>}}
- | 2 = <span class="fn">{{#if:{{{name|}}}|{{{name}}}|{{PAGENAMEBASE}}}}</span>
- | 3 = {{#if:{{{honorific suffix|{{{honorific_suffix|}}}}}}|<span class="honorific-suffix" style="font-size: small">{{{honorific suffix|{{{honorific_suffix|}}}}}}</span>}}
- }}
-| abovestyle = {{{abovestyle|}}}
-
-| image      = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image size|{{{image_size|{{{imagesize|}}}}}}}}}|sizedefault=frameless|upright={{{image_upright|1}}}|alt={{{alt|}}}|suppressplaceholder=yes}}
-| caption    = {{{image caption|{{{caption|{{{image_caption|}}}}}}}}}
-
-| label1     = Native&nbsp;name
-| data1      = {{#if:{{{native_name|}}}|<span class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</span>}}
-
-| label2     = Pronunciation
-| data2      = {{{pronunciation|}}}
-
-| label10    = Born
-| data10     = {{Br separated entries|1={{#if:{{{birth_name|{{{birthname|}}}}}}|<span class="nickname">{{{birth_name|{{{birthname|}}}}}}</span>}}|2={{{birth_date|}}}|3={{#if:{{{birth_place|}}}|<span class="birthplace">{{{birth_place|}}}</span>}}}}
-
-| label11    = Baptised
-| data11     = {{#if:{{{birth_date|}}}||{{{baptised|}}}}}
-
-| label12    = Disappeared
-| data12     = {{Br separated entries|1={{{disappeared_date|}}}|2={{{disappeared_place|}}}}}
-
-| label13    = Status
-| data13     = {{{status|{{{disappeared_status|}}}}}}
-
-| label14    = Died
-| data14     = {{Br separated entries|1={{{death_date|}}}|2={{#if:{{{death_place|}}}|<span class="deathplace">{{{death_place|}}}</span>}}}}
-
-| label15    = Cause&nbsp;of death
-| data15     = {{{death cause|{{{death_cause|}}}}}}
-
-| label16    = Body discovered
-| data16     = {{{body discovered|{{{body_discovered|}}}}}}
-
-| label17    = {{#if:{{{burial_place|}}}|Burial place|Resting place}}
-| data17     = {{#if:{{{burial_place|}}}|{{Br separated entries|1={{{burial_place|}}}|2={{{burial_coordinates|}}}}}|{{Br separated entries|1={{{resting place|{{{resting_place|{{{restingplace|}}}}}}}}}|2={{{resting place coordinates|{{{resting_place_coordinates|{{{restingplacecoordinates|}}}}}}}}}}}}}
-| class17    = label
-
-| label18    = Monuments
-| data18     = {{{monuments|}}}
-
-| label19    = Residence
-| data19     = {{{residence|}}}
-| class19    = {{#if:{{{death_date|}}}{{{death_place|}}}||label}}
-
-| label20    = Nationality
-| data20     = {{{nationality|}}}
-| class20    = category
-
-| label21    = Other&nbsp;names
-| data21     = {{{other names|{{{other_names|{{{othername|{{{alias|}}}}}}}}}}}}
-| class21    = nickname
-
-| label22    = Ethnicity
-| data22     = {{{ethnicity|}}}
-| class22    = category
-
-| label23    = Citizenship
-| data23     = {{{citizenship|}}}
-| class23    = category
-
-| label24    = Education
-| data24     = {{{education|}}}
-
-| label25    = Alma&nbsp;mater
-| data25     = {{{alma mater|{{{alma_mater|}}}}}}
-
-| label26    = Occupation
-| data26     = {{{occupation|}}}
-| class26    = role
-
-| label27    = Years&nbsp;active
-| data27     = {{{years active|{{{years_active|{{{yearsactive|}}}}}}}}}
-
-| label28    = Era
-| data28     = {{{era|}}}
-| class28    = category
-
-| label29    = Employer
-| data29     = {{{employer|}}}
-| class29    = org
-
-| label30    = {{#if:{{{organisation|}}}|Organisation|Organization}}
-| data30     = {{{organisation|{{{organization|{{{organizations|}}}}}}}}}
-| class30    = org
-
-| label31    = Agent
-| data31     = {{{agent|}}}
-| class31    = agent
-
-| label32    = Known&nbsp;for
-| data32     = {{{known for|{{{known_for|{{{known|}}}}}}}}}
-
-| label33    = <span style="white-space:nowrap;">{{#if:{{{works|}}}|Works|{{#if:{{{credits|}}}|Notable credit(s)|Notable work}}}}</span>
-| data33     = {{#if:{{{works|}}}|{{{works|}}}|{{#if:{{{credits|}}}|{{{credits}}}|{{{notable works|{{{notable_works|}}}}}}}}}}
-
-| label34    = Style
-| data34     = {{{style|}}}
-| class34    = category
-
-| label37    = Home&nbsp;town
-| data37     = {{{home town|{{{home_town|}}}}}}
-
-| label38    = Salary
-| data38     = {{{salary|}}}
-
-| label39    = Net&nbsp;worth
-| data39     = {{{net worth|{{{net_worth|{{{networth|}}}}}}}}}
-
-| label40    = Height
-| data40     = {{#if:{{{height_m|{{{height_cm|}}}}}}{{{height_ft|}}}{{{height_in|}}} | {{convinfobox|{{{height_m|{{{height_cm|}}}}}}|{{#if:{{{height_m|}}}|m|cm}}|{{{height_ft|}}}|ft|{{{height_in|}}}|in}}}}{{#if:{{{height|}}} | {{infobox person/height|{{{height|}}}}}}}
-
-| label41    = Weight
-| data41     = {{#if:{{{weight_kg|}}}{{{weight_st|}}}{{{weight_lb|}}} | {{convinfobox|{{{weight_kg|}}}|kg|{{{weight_st|}}}|st|{{{weight_lb|}}}|lb}}}}{{#if:{{{weight|}}} | {{infobox person/weight|{{{weight|}}}}}}}
-
-| label42    = Television
-| data42     = {{{television|}}}
-
-| label43    = Title
-| data43     = {{{title|}}}
-| class43    = title
-
-| label44    = Term
-| data44     = {{{term|}}}
-
-| label45    = Predecessor
-| data45     = {{{predecessor|}}}
-
-| label46    = Successor
-| data46     = {{{successor|}}}
-
-| label47    = Political party
-| data47     = {{{party|}}}
-| class47    = org
-
-| label48    = Movement
-| data48     = {{{movement|}}}
-| class48    = category
-
-| label49    = <span class="nowrap">Opponent(s)</span>
-| data49     = {{{opponents|}}}
-
-| label50    = Board member&nbsp;of
-| data50     = {{{boards|}}}
-
-| label51    = Religion
-| data51     = {{#if:{{{religion|}}}|{{{religion|}}} {{#if:{{{denomination|}}}|({{{denomination|}}})|}}|}}
-| class51    = category
-
-| label52    = Denomination
-| data52     = {{#if:{{{religion|}}}||{{{denomination|}}}}}
-| class52    = category
-
-| label53    = Criminal charge
-| data53     = {{{criminal charge|{{{criminal_charge|}}}}}}
-
-| label54    = Criminal penalty
-| data54     = {{{criminal penalty|{{{criminal_penalty|}}}}}}
-
-| label55    = {{#if:{{{judicial_status|{{{judicial status|}}}}}}|Judicial status|Criminal status}}
-| data55     = {{#if:{{{judicial status|{{{judicial_status|}}}}}} | {{{judicial status|{{{judicial_status}}}}}} | {{{criminal status|{{{criminal_status|}}}}}}}}
-| class55    = category
-
-| label56    = <span class="nowrap">Spouse(s)</span>
-| data56     = {{{spouse|}}}
-
-| label57    = <span class="nowrap">Partner(s)</span>
-| data57     = {{{partner|{{{domesticpartner|{{{domestic_partner|}}}}}}}}}
-
-| label58    = Children
-| data58     = {{{children|}}}
-
-| label59    = Parent{{#if:{{{parents|}}}|(s)|{{#if:{{{father|}}}|{{#if:{{{mother|}}}|s|(s)}}|(s)}}}}
-| data59     = {{#if:{{{parents|}}}|{{{parents}}}|{{Unbulleted list|{{#if:{{{father|}}}|{{{father}}} (father)}}|{{#if:{{{mother|}}}|{{{mother}}} (mother)}}}}}}
-
-| label60    = Relatives
-| data60     = {{{relations|{{{relatives|}}}}}}
-
-| label61    = Family
-| data61     = {{{family|}}}
-
-| label62    = Call-sign
-| data62     = {{{callsign|}}}
-
-| label63    = Awards
-| data63     = {{{awards|}}}
-
-| label64    = {{#if:{{{honours|}}}|Honours|Honors}}
-| data64     = {{#if:{{{honours|}}}|{{{honours}}}|{{{honors|}}}}}
-
-| label65    = Website
-| data65     = {{{website|{{{homepage|{{{URL|}}}}}}}}}
-
-| data66     = {{{misc|{{{module|}}}}}}
-| data67     = {{{misc2|{{{module2|}}}}}}
-| data68     = {{{misc3|{{{module3|}}}}}}
-| data69     = {{{misc4|{{{module4|}}}}}}
-| data70     = {{{misc5|{{{module5|}}}}}}
-| data71     = {{{misc6|{{{module6|}}}}}}
-
-| header72   = {{#if:{{{signature|}}}|Signature}}
-| data73     = {{#invoke:InfoboxImage|InfoboxImage|image={{{signature|}}}|size={{{signature_size|}}}|sizedefault=150px|alt={{{signature alt|{{{signature_alt|}}}}}}}}
-
-| header74   = {{#if:{{{footnotes|}}}|Notes}}
-| data75     = {{#if:{{{footnotes|}}}|<div style="text-align: left;">
-{{{footnotes}}}</div>}}
-
-}}<!--
--->{{#invoke:Check for unknown parameters|check|unknown={{main other|[[Category:Articles using infobox person with unsupported parameters|_VALUE_{{PAGENAME}}]]}}|preview = Page using [[Template:Infobox person]] with unknown parameter "_VALUE_"|ignoreblank=y
-| abovestyle | agent | alias | alma mater | alma_mater | alt | awards | baptised | birth_date | birth_name | birth_place | birthname | boards | body discovered | body_discovered | burial_coordinates | burial_place | callsign | caption | child | children | citizenship | credits | criminal charge | criminal penalty | criminal status | criminal_charge | criminal_penalty | criminal_status | death cause | death_cause | death_date | death_place | denomination | disappeared_date | disappeared_place | disappeared_status | domestic_partner | domesticpartner | education | employer | era | ethnicity | family | father | footnotes | height | height_cm | height_ft | height_in | height_m | home town | home_town | homepage | honorific prefix | honorific suffix | honorific_prefix | honorific_suffix | honors | honours | image | image caption | image size | image_caption | image_size | image_upright | imagesize | judicial status | judicial_status | known | known for | known_for | misc | misc2 | misc3 | misc4 | misc5 | misc6 | module | module2 | module3 | module4 | module5 | module6 | monuments | mother | movement | name | nationality | native_name | native_name_lang | net worth | net_worth | networth | notable works | notable_works | occupation | opponents | organisation | organization | organizations | other names | other_names | othername | parents | partner | party | predecessor | pronunciation | relations | relatives | religion | residence | resting place | resting place coordinates | resting_place | resting_place_coordinates | restingplace | restingplacecoordinates | salary | signature | signature alt | signature_alt | signature_size | spouse | status | style | successor | television | term | title | URL | website | weight | weight_kg | weight_lb | weight_st | works | years active | years_active | yearsactive}}<!--
--->{{Main other|
-{{#if:{{{1|}}}{{{2|}}}{{{3|}}}{{{4|}}}{{{5|}}}|[[Category:Infobox person using numbered parameter]]}}<!--
--->{{#if:{{{box_width|}}}|[[Category:Infobox person using boxwidth parameter]]}}<!--
--->{{#if:{{{death_date|}}}{{{death_place|}}}|{{#if:{{{salary|}}}{{{net worth|{{{net_worth|{{{networth|}}}}}}}}}|[[Category:Infobox person using certain parameters when dead]]}}}}<!--
--->{{#if:{{{influences|}}}{{{influenced|}}}|[[Category:Infobox person using influence]]}}<!--
--->{{#if:{{{pronunciation|}}}|[[Category:Biography template using pronunciation]]}}<!--
--->{{#if:{{{signature|}}}|[[Category:Biography with signature]]}}[[Category:Articles with hCards]]
-}}<includeonly>{{#ifeq:{{{child|}}}|yes||{{Wikidata image|1={{{image|}}}}}}}</includeonly><noinclude>
-{{Documentation}}</noinclude>
-
-[[جرگه:اينفؤباکس]]
+<noinclude>
+{{ #ifeq: {{SUBPAGENAME}} |sandbox|{{Template sandbox notice}}}}
+{{ #ifeq: {{FULLPAGENAME}} |قالب:جعبه بازیگر|{{pp-template|small=yes}}}}
+</noinclude>{| class="infobox vcard" style="width:{{{box_width|22em}}}; font-size:100%; text-align:right;"
+! colspan="2" style="text-align:center; font-size:larger; background-color:{{#اگر:{{{بمردنˇ رۊج|}}}|silver|&#35;ed8}}; color:#000;" class="fn" | {{{نام|{{PAGENAME}}}}}
+|-
+{{#اگر:{{{تصویر|}}}|<br/>
+{{!}}-bgcolor="#FFFFFF"
+{{!}} colspan="2" align="center" bgcolor="#FFFFFF" {{!}} [[پرونده:{{{تصویر}}}|center|{{formatnum:{{#اگر:{{{اندازه‌تصویر|}}}|{{{اندازه‌تصویر}}}px|300px}}|R}}|{{#اگر:{{{برچسب‌تصویر|}}}|{{{برچسب‌تصویر}}}|ايته تاتايي {{{أصلي نام}}}ˇ جه}}]]|}}
+{{#اگر:{{{تاتايي تؤضيح|}}}|{{{تاتايي تؤضيح}}}
+{{!}}-
+}}
+|-
+{{#اگر:{{{أصلي نام|}}} |
+! width="85" {{!}} أصلي نام
+{{!}} {{{أصلي نام}}}
+{{!}}-
+}}
+|-
+{{#اگر:{{{فعاليتˇ زمينه|}}} |
+{{!}}width="85px"{{!}} '''فعاليتˇ زمينه''' {{!}}{{!}} {{{فعاليتˇ زمينه}}}
+}}
+|-
+{{#اگر:{{{مليت|}}} |
+! مليت
+{{!}} {{{مليت}}}
+{{!}}-
+}}
+{{#اگر:{{{بزارۊج|}}} |
+! بزارۊج
+{{!}} {{{بزارۊج}}}
+{{!}}-
+}}
+{{#اگر:{{{بزاجيگا|}}} |
+! بزاجيگا
+{{!}} {{{بزاجيگا}}}
+{{!}}-
+}}
+{{#اگر:{{{بمردنˇ رۊج|}}} {{{بمردنˇ جيگا|}}} |
+! بمردن
+{{!}} {{#اگر:{{{بمردنˇ رۊج|}}}|{{{بمردنˇ رۊج}}}<br />}} {{{بمردنˇ جيگا|}}}
+{{!}}-
+}}
+{{#اگر:{{{زيوشˇ جيگا|}}} {{{زيوشˇ جيگا|}}} |
+! زيوشˇ جيگا
+{{!}} {{#اگر:{{{زيوشˇ جيگا|}}}|<span class="label">{{{زيوشˇ جيگا}}}</span><br />}} {{{مختصات محل زندگی|}}}
+{{!}}-
+}}
+|-
+{{#اگر:{{{مدفن|}}} |
+! دفنˇ جيگا
+{{!}} {{{مدفن}}}
+{{!}}-
+}}
+{{#اگر:{{{باخي نامان|}}} |
+! باخي نامان
+{{!}} <span class="nickname">{{{باخي نامان}}}</span>
+{{!}}-
+}}
+{{#اگر:{{{پیشه|}}} |
+! کار
+{{!}} {{{پیشه}}}
+{{!}}-
+}}
+{{#اگر:{{{کار گۊدنˇ سالان|}}} |
+! کار گۊدنˇ سالان
+{{!}} {{{کار گۊدنˇ سالان}}}
+{{!}}-
+}}
+{{#اگر:{{{والدین|}}} |
+! پئر ؤ مار
+{{!}} {{{والدین}}}
+{{!}}-
+}}
+{{#اگر:{{{همسر|}}} |
+! همسران
+{{!}} {{{همسر}}}
+{{!}}-
+}}
+{{#اگر:{{{زيوشˇ شريکان|}}} |
+! زيوشˇ شريکان
+{{!}} {{{زيوشˇ شريکان}}}
+{{!}}-
+}}
+{{#اگر:{{{زاکان|}}} |
+! زاکان
+{{!}} {{{زاکان}}}
+{{!}}-
+}}
+{{#اگر:{{{تحصیلات|}}} |
+! تحصيلات
+{{!}} {{{تحصیلات}}}
+{{!}}-
+}}
+{{#اگر:{{{تأثير بنأ|}}} |
+! تأثير بنأ
+{{!}} <span class="label">{{{تأثير بنأ}}}</span>
+{{!}}-
+}}
+{{#اگر:{{{تأثير بيگيته‌|}}} |
+! تأثير بيگيته‌
+{{!}} <span class="label">{{{تأثير بيگيته‌}}}</span>
+{{!}}-
+}}
+{{#اگر:{{{وب‌گاه|{{{صفحه اصلی|}}}}}} |
+! رسمي وبجيگا
+{{!}} {{{وب‌گاه|{{{صفحه اصلی|}}}}}}
+{{!}}-
+}}
+{{#اگر:{{{ايمضا|}}} |
+! ایمضا {{#invoke:InfoboxImage|InfoboxImage|image={{{ايمضا|}}}|size={{{signature_size|}}}|sizedefault=150px|alt={{{signature alt|{{{signature_alt|}}}}}}}}
+{{!}}-
+}}
+<noinclude>
