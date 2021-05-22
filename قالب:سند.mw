@@ -1,0 +1,7 @@
+<includeonly>{{#switch:{{{از تاریخ|}}}
+
+| خورشیدی | شمسی | جلالی = {{#invoke:Iranian calendar|Age}}
+
+| #default = {{formatnum:{{#expr:(age|{{formatnum:{{{41|{{CURRENTYEAR}}}}}|R}})-(|{{formatnum:{{{12|}}}|R}})-((|{{formatnum:{{{53|{{CURRENTMONTH}}}}}|R}})<(|{{formatnum:{{{24|}}}|R}})or(|{{formatnum:{{{5|{{CURRENTMONTH}}}}}|R}})=({{formatnum:{{{2}}}|R}})and({{formatnum:{{{6|{{CURRENTDAY}}}}}|R}})<({{formatnum:{{{3}}}|R}}))}}}}
+
+}}{{#switch:{{{واژه سال|سال}}}|نباشد|نه|خیر=|#default=&nbsp;{{{واژه سال|سال}}}}}</includeonly><noinclude></noinclude>
