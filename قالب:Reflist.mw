@@ -1,0 +1,17 @@
+<div class="references-small" {{#if: {{{عرض‌ستون|}}}| style="-moz-column-width:{{{عرض‌ستون}}}; column-width:{{{عرض‌ستون}}};" | {{#if: {{{1|}}}| style="-moz-column-count:{{{1}}}; column-count:{{{1}}} }}};" |}}>
+<references/></div><noinclude>
+==کاربرد==
+نمونهٔ استفاده
+<pre>
+{{پانویس‌ها|2}}
+</pre>
+پانویس‌ها را در دو ستون نمایش می‌دهد.
+<pre>
+{{پانویس|عرض‌ستون=30em}}
+</pre>
+شکستن مقاله به چند ستون با عرض ۳۰ که تعداد ستون‌ها به طور خودکار توسط مرورگر با توجه به عرض صفحه انجام می‌شود.
+</noinclude>
+
+<noinclude>[[رده:قالب]]
+[[br:Patrom:Reflist]]
+</noinclude>
