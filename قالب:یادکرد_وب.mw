@@ -1,0 +1,13 @@
+{{#invoke:Template wrapper|wrap|_template=
+<!-- check if language is set to an LTR lanuage use English citation template instead -->
+{{#invoke:Citation/lang|is_rtl| lang= {{{زبان| {{{کد زبان| {{{language| {{{lang|}}} }}} }}} }}} |type = web }}
+<!-- parameters that cannot be passed directly to the template -->
+|_exclude= کوشش, نویسندگان سایر بخش‌ها, others, دیگران
+<!-- parameters that can be directly passed to the template but need some pre-processing before -->
+|_reuse= جلدها
+<!-- excluded parameters that need some pre-processing before being passed to the template -->
+|دیگران  = {{#if: {{{کوشش|}}} | به کوشش {{{کوشش|}}}. {{{دیگران|{{{others|{{{نویسندگان سایر بخش‌ها|}}}}}}}}} |{{{دیگران|{{{others|{{{نویسندگان سایر بخش‌ها|}}}}}}}}} }}
+|جلدها   = {{#if:{{{جلدها|}}} | {{{جلدها|}}} جلد }}
+}}<noinclude>
+{{Documentation}}
+</noinclude>
