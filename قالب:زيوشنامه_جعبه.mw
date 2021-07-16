@@ -2,7 +2,7 @@
 {{ #ifeq: {{SUBPAGENAME}} |sandbox|{{Template sandbox notice}}}}
 {{ #ifeq: {{FULLPAGENAME}} |قالب:جعبه بازیگر|{{pp-template|small=yes}}}}
 </noinclude>{| class="infobox vcard" style="width:{{{box_width|22em}}}; font-size:100%; text-align:right;"
-! colspan="2" style="text-align:center; font-size:larger; background-color:{{#اگر:{{{بمردنˇ رۊج|}}}|silver|&#35;ed8}}; color:#000;" class="fn" | {{{نام|{{PAGENAME}}}}}
+! colspan="2" style="text-align:center; font-size:larger; background-color:{{#اگر:{{{بمردن ٚ رۊج|}}}|silver|&#35;ed8}}; color:#000;" class="fn" | {{{نام|{{PAGENAME}}}}}
 |-
 {{#اگر:{{{تصویر|}}}|<br/>
 {{!}}-bgcolor="#FFFFFF"
@@ -112,11 +112,11 @@
 {{!}}-
 }}
 {{#اگر:{{{imdb_id|}}}|
-! style="font-size: 100%;" align="center" colspan="2" {{!}} '''[http://www.imdb.com/name/nm{{formatnum:{{{imdb_id|}}}|R}}/ بازيگرˇ أصلي ولگ IMDb مئن]'''
+! style="font-size: 100%;" align="center" colspan="2" {{!}} '''[http://www.imdb.com/name/nm{{formatnum:{{{imdb_id|}}}|R}}/ بازيگر ٚ أصلي ولگ IMDb مئن]'''
 {{!}}-
 }}
 {{#اگر:{{{soure_id|}}}|
-! style="font-size: 100%;" align="center" colspan="2" {{!}} '''[http://www.sourehcinema.com/People/People.aspx?Id={{{soure_id}}}/ بازيگرˇ أصلي ولگ سوره مئن]'''
+! style="font-size: 100%;" align="center" colspan="2" {{!}} '''[http://www.sourehcinema.com/People/People.aspx?Id={{{soure_id}}}/ بازيگر ٚ أصلي ولگ سوره مئن]'''
 {{!}}-
 }}
 {{!}}}
