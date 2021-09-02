@@ -1,0 +1,72 @@
+{{Navbox
+|name  = دونیا قاره‌ٰن
+|state = autocollapse
+|title=[[قاره|دونیا قاره‌ٰن]]
+|basestyle = background:khaki;
+|list1 = <div>
+<!------------------قاره‌ٰن------------------>
+{{Navbox with columns|child
+ |colwidth = 14.2857%
+ |colstyle = text-align:center;
+ |col1 = [[پرونده:LocationAfrica.png|75px]]<br />[[آفریقا]]
+ |col2 = [[پرونده:LocationAntarctica.png|75px]]<br />[[نسا تۊک]]
+ |col3 = [[پرونده:LocationAsia.png|75px]]<br />[[آسیا]]
+ |col4 = [[پرونده:LocationAustralia.png|75px]]<br />[[اؤستؤرالیا(قاره)|اؤستؤرالیا]]
+ |col5 = [[پرونده:LocationEurope.png|75px]]<br />[[اۊرۊپا]]
+ |col6 = [[پرونده:LocationNorthAmerica.png|75px]]<br />[[کلسيايی آمريکا]]
+ |col7 = [[پرونده:LocationSouthAmerica.png|75px]]<br />[[نسايي آمريکا]]
+}}
+<hr />
+<!----------------پیلˇ قاره‌ٰن---------------->
+{{Navbox with columns|child
+ |colwidth = 25%
+ |colstyle = text-align:center;
+ |col1 = [[پرونده:LocationAfricaEurasia.png|75px]]<br />[[آفرؤ−اؤراسيا]]
+ |col2 = [[پرونده:LocationAmericas.png|75px]]<br />[[آمریکا قاره|آمریکا]]
+ |col3 = [[پرونده:LocationEurasia.png|75px]]<br />[[اؤراسيا]]
+ |col4 = [[پرونده:LocationOceania.png|75px]]<br />[[اؤقیانۊسیه]]
+}}
+<hr />
+{{Navbox with columns|child
+ |colstyle = text-align:center;
+ |col1width = 40%
+ |col1 = <div>
+<!------------زمین‌شناسی پیلˇ قاره‌ٰن------------>
+'''زمین‌شناسی [[پیلˇ قاره‌ٰن]]''' <div style="padding-bottom:0.5em; line-height:1.3em;">{{nowrap begin}} [[گوندوانا]]{{·w}} [[لوراسیا]]{{·w}} [[پانگایا]]{{·w}} [[پانوتیا]]<br />[[رودینیا]]{{·w}} [[کؤلؤمبیا (پیلˇ قاره)|کؤلؤمبیا]]{{·w}} [[کنورلند]]{{·w}} [[اور (پیلˇ قاره)|اور]]{{·w}} [[والبارا]]</div>
+</div>
+ |col2width = 60%
+ |col2 = <div>
+<!----------قتاریخی قاره‌ٰن---------->
+'''[[قاره|تاریخی قاره‌ٰن]]''' <div style="padding-bottom:0.5em; line-height:1.3em;">{{nowrap begin}} [[آرکتیکا]]{{·w}} [[آسیامریکا]]{{·w}} [[آتلانیتکا]]{{·w}} [[آوالونیا]]{{·w}} [[بالتیکا]]{{·w}} [[سیمریا (قاره)|سیمریا]]{{·w}} [[کنگو کراتون]]{{·w}} [[اروآمریکا]]{{·w}} [[کالاهاری کراتون|کالاهاریا]]{{·w}} [[قزاقستانیا]]{{·w}} [[لاورنسیا]]{{·w}} [[سیبری (قاره)|سیبری]]{{·w}} [[نسا چین (قاره)|جونوبی چین]]{{·w}} [[اور (قاره)|اور]] {{nowrap end}}</div>
+</div>
+}}
+<hr />
+{{Navbox with columns|child
+ |colwidth = 33.3333%
+ |colstyle = text-align:center
+ |col1 = <div>
+<!----------اؤˇ جیرˇ قاره‌ٰن---------->
+'''[[قاره#باخی واوین‌بندی‌ئن|اؤˇ جیرˇ قاره‌ٰن]]'''<br />
+[[کرگوئلنˇ فلات]]{{·}} [[زلاندیا (قاره)|زلاندیا]]
+</div>
+ |col2 = <div>
+<!----------آینده احتمالی قاره‌ٰن---------->
+'''[[پیلˇ قاره‌ٰنˇ فهرست|آینده احتمالی قاره‌ٰن]]'''<br />
+[[پانگایا آلتیما]]{{·}} [[آماسیا (قاره)|آماسیا]]
+</div>
+ |col3 = <div>
+<!----------اساطیری و نظری قاره‌ٰن---------->
+'''[[اساطیری جیگان|اساطیری و نظری قاره‌ٰن]]'''<br />
+[[آتلانتیس]]{{·}} [[لموریا (قاره)|لموریا]]{{·}} [[مروپیس]] {{·}} [[مو (قاره)|مو]]{{·}} [[ترا استرالیس]]
+</div>
+}}
+</div>
+|below =  ''[[الگو:دونیا منطقه‌ٰن|دونیا منطقه‌ٰنأ]] نی بدینید''
+}}<noinclude>
+
+
+<!---Please add metadata to the <includeonly> section at the bottom of the /doc subpage--->
+</noinclude>
+
+
+[[Category:قالب]]
