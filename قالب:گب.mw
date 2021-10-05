@@ -1,0 +1,27 @@
+{| class="messagebox standard-talk" id="talkheader" align="center" style="background-color: #FFFFFF;"
+|-
+! colspan="3" style="border: 1px solid #C0C090; background-color:#F8EABA; text-align:center;" |
+{{#ifeq:{{NAMESPACE}}|بحث کاربر|
+اي ىکته [[{{SUBJECTPAGENAME}}|{{PAGENAME}}]] گبˇ ولگه؛ ىک جا که تينين شيمئه نظر ؤ گبه راجه به {{PAGENAME}}ˇ وانيويس بنویيسين.
+|
+اي ىکته گبˇ ولگه راجه به {{#اگر:{{SUBJECTSPACE}}|صفحهٔ|مقالهٔ}} [[:{{SUBJECTSPACE}}:{{BASEPAGENAME}}|{{SUBJECTSPACE}} {{BASEPAGENAME}}]].
+}}
+|-
+| style="background-color: #FFFFFF;" |
+*لؤطف بۊکۊنين گبˇ ولگؤنˇ مئن چار ته کۊچˇ مدˇ همرأ '''[[Wikipedia:امضا|امضا بۊکۊنين]]'''  (<tt><nowiki>~~~~</nowiki></tt>).
+* '''شيمئه وؤته، گبˇ سراخر ؤ جير اضافه بۊکۊنين.''' <span class="plainlinks">[http://glk.wikipedia.org/w/index.php?title={{TALKPAGENAMEE}}&action=edit&section=new کيليک بۊکۊنين تا ىکته تازه وابينه سرأگيرين]</span>.
+* '''ويکي نيويسي سرأىتن'''ˇ ئبه [[Wikipedia:پيشامۊتن|رانمايي]] هأگيرين ؤ [[Wikipedia:قأوه_دیکؤن|هر سؤالي دأنين قأوه ديکؤنˇ مئن واپۊرسين]].
+{{#اگر: {{SUBJECTSPACE}}||*'''ائره [[Wikipedia:نئه#فؤرۊم ؤ چت|فؤرۊم ؤ چت نئه]]، خالي راجع به وانيويس گب بزنين.}}
+| style="margin: 0px; background-color: #F8EABA; border: 1px solid #C0C090; " |
+*[[Wikipedia:تربيت|أدب ؤ تربيته رعاىت بۊکۊنين]]
+*[[Wikipedia:شأروندي فرهنگ|خؤرؤم شأروند ببين]]
+*[[Wikipedia:شخصه فنترکين|شخصه فنترکين]]
+*[[Wikipedia:تازه کارگيرؤنˇ همرأ تۊندي نۊکۊنين|تازه کارگيرؤنˇ همره تۊندي نۊکۊنين ؤ ايشؤنˇ هوا بدأرين]]{{#ifeq:{{{arpol|{{#if:{{SUBJECTSPACE}}|no|yes}}}}}|yes|<br />
+{{!}} style="margin: 0px; background-color: #F8EABA; border: 1px solid #C0C090;" {{!}}<center>'''وانيويسؤنˇ سياستؤن'''</center>
+*[[Wikipedia:دسˇ اول تحقیق|شيمئه دسˇ اول تحقیقه ننين ويکيپديا مئن]]
+*[[Wikipedia:بيطرفي|بيطرف نظر بدين]] و [[Wikipedia:نزاکت|نزاکت]] ره رعایت کؤنين.
+*[[Wikipedia:قبول گودنی بؤن|شيمئه مطالب خچ قبۊل گۊدني ؤ ائبات گۊدني بۊبۊن.]]}}{{#if:{{{noarchive|{{{noarchives|{{{بایگانی نه|}}}}}}}}}|<!-- nothing -->|{{#ifexist:{{FULLPAGENAME}}/بایگانی ۱|<br />
+{{!}}-
+{{!}}colspan="4" style="border: 1px solid #C0C090; background-color:#F8EABA; text-align:center; padding:1px 3px 1px 3px;"{{!}}'''[[Wikipedia:ولگؤنˇ تيلمبار|چۊتؤ تيلمبار بۊکۊنيم؟]]:'''{{#ifexist: {{FULLPAGENAME}}/تيلمبار|[[{{FULLPAGENAME}}/تيلمبار|تيلمبارؤنˇ ليست|]],&nbsp;}}{{Archive list|nobr=yes|root={{FULLPAGENAME}}}}}}}}
+|}<noinclude>
+</noinclude>
