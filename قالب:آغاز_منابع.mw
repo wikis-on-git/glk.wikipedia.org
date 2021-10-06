@@ -1,0 +1,18 @@
+<includeonly><templatestyles src="آغاز منابع/styles.css" /><div class="refbegin <!--
+ -->{{#if: {{{normalfont|{{{قلم ساده|}}}}}} <!--
+ -->{{#if: {{{indent|{{{تورفتگی|}}}}}} | refbegin-hanging-indents }} <!--
+    | refbegin-100 }} <!--
+ -->{{#if: {{{1|}}}
+    | columns {{#iferror: {{#ifexpr: {{formatnum:{{{1|1}}}|R}} > 1 }}
+      | references-column-width 
+      | references-column-count references-column-count-{{#if:1|{{formatnum:{{{1}}}|R}}}} }}
+    | {{#if: {{{colwidth|{{{پهنای ستون|{{{عرض|}}}}}}}}}
+      | references-column-width }} }}" style="<!--
+ -->{{#if: {{{1|}}}
+    | {{#iferror: {{#ifexpr: {{formatnum:{{{1|1}}}|R}} > 1 }}
+      | {{column-width|{{#if:1|{{formatnum:{{{1}}}|R}}}}}}
+      | {{column-count|{{#if:1|{{formatnum:{{{1}}}|R}}}}}} }}
+    | {{#if: {{{colwidth|{{{پهنای ستون|{{{عرض|}}}}}}}}}
+      | {{column-width|{{formatnum:{{{colwidth|{{{پهنای ستون|{{{عرض}}}}}}}}}|R}}}} }} }}"></includeonly><noinclude>
+{{توضیحات}}
+</noinclude>
