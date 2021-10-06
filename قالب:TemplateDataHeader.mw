@@ -1,0 +1,8 @@
+<div class="templatedata-header">{{#if:{{{noheader|}}}| |این توضیحاتِ [[:en:Wikipedia:TemplateData|داده‌های الگو]] این الگو است که توسط [[ویکی‌پدیا:ویرایش‌گر دیداری|ویرایشگر دیداری]] و دیگر ابزارها استفاده می‌شود.}}
+
+'''{{{1|{{BASEPAGENAME}}}}}'''
+</div><includeonly>{{#ifeq:{{SUBPAGENAME}}|تمرین||
+[[رده:توضیحات داده‌های الگو]]
+}}</includeonly><noinclude>
+{{توضیحات}}
+</noinclude>
