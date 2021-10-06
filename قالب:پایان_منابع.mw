@@ -1,0 +1,11 @@
+<includeonly></div></includeonly><noinclude>
+{{توضیحات|الگو:آغاز پانویس/توضیحات}}
+{{TemplateDataHeader}}
+<templatedata>
+{
+    "description": "Ends a reference lists started by {{refbegin}}.",
+    "params": {
+    }
+}
+</templatedata>
+</noinclude>
