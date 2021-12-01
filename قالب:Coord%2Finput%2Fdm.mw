@@ -1,0 +1,2 @@
+<includeonly>{{Coord/link|dms-lat={{{{عف|{{{3}}}}}عرض}}′{{عف|{{{2}}}}}°{{عف|{{{1}}}}}|dms-long={{{{عف|{{{6}}}}}طول}}′{{عف|{{{5}}}}}°{{عف|{{{4}}}}}|dec-lat={{coord/dms2dec|{{{3}}}|{{{1}}}|{{{2}}}}}|dec-long={{coord/dms2dec|{{{6}}}|{{{4}}}|{{{5}}}}}|param={{{1}}}_{{{2}}}_{{{3}}}_{{{4}}}_{{{5}}}_{{{6}}}_{{{7|}}}|default={{#if:{{{format|}}}|{{{format}}}|dms}}|name={{{name|}}}}}</includeonly>
+<noinclude>{{الگوی پیچیده}}</noinclude>
