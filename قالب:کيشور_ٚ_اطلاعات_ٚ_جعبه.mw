@@ -328,18 +328,18 @@
           <td>{{{مقننه|}}}</td>
       </tr><!--
 -->}}<!--
--->{{#if:{{{سنا مجلس|}}} |<!--then:
+-->{{#if:{{{أعلا مجلس|}}} |<!--then:
      --> <tr class="mergedrow">
           <td style="width:1em; padding:0 0 0 0.6em;">&nbsp;-&nbsp;</td>
-          <td style="padding-right:0em;">[[عليا مجلس]]</td>
-          <td>{{{سنا مجلس}}}</td>
+          <td style="padding-right:0em;">أعلا مجلس</td>
+          <td>{{{أعلا مجلس}}}</td>
         </tr><!--
 -->}}<!--
--->{{#if:{{{عوام ٚ مجلس|}}} |<!--then:
+-->{{#if:{{{سفلا مجلس|}}} |<!--then:
      --><tr class="mergedbottomrow">
           <td style="width:1em; padding:0 0 0 0.6em;">&nbsp;-&nbsp;</td>
-          <td style="padding-right:0em;">[[سفلی مجلس]]</td>
-          <td>{{{عوام ٚ مجلس}}}</td>
+          <td style="padding-right:0em;">سفلا مجلس</td>
+          <td>{{{سفلا مجلس}}}</td>
         </tr><!--
 -->}}<!--
 
