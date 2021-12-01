@@ -256,7 +256,7 @@
      -->}}<!--
      -->{{#if:{{{محلي زوان|{{{محلي زوان|}}}}}} |<!--then:
           --><tr class="mergedbottomrow">
-               <td colspan="2">[[محلي زوان]]‌ها</td>
+               <td colspan="2">[[محلي زوان]]‌ان</td>
                <td style="vertical-align:middle;">{{{محلي زوان|{{{محلي زوان|}}}}}}</td>
              </tr><!--
      -->}}<!--
