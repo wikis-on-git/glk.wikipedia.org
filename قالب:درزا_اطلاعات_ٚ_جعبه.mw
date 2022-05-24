@@ -1,141 +1,85 @@
-<noinclude>
-{{ #ifeq: {{SUBPAGENAME}} |sandbox|{{Template sandbox notice}}}}
-{{ #ifeq: {{FULLPAGENAME}} |قالب:کارکیایی|{{pp-template|small=yes}}}}
-</noinclude>{| class="infobox vcard" style="width:{{{box_width|22em}}}; font-size:100%; text-align:right;"
-! colspan="2" style="text-align:center; font-size:larger; background-color:{{#اگر:{{{بمردن ٚ رۊج|}}}|silver|&#35;ed8}}; color:#000;" class="fn" | {{{نام|{{PAGENAME}}}}}
-|-
-{{#اگر:{{{تصویر|}}}|<br/>
-{{!}}-bgcolor="#FFFFFF"
-{{!}} colspan="2" align="center" bgcolor="#FFFFFF" {{!}} [[پرونده:{{{تصویر}}}|center|{{formatnum:{{#اگر:{{{اندازه‌تصویر|}}}|{{{اندازه‌تصویر}}}px|300px}}|R}}|{{#اگر:{{{برچسب‌تصویر|}}}|{{{برچسب‌تصویر}}}|ايته تاتايي {{{أصلي نام}}} ٚ جه}}]]|}}
-{{#اگر:{{{تاتايي تؤضيح|}}}|{{{تاتايي تؤضيح}}}
-{{!}}-
-}}
-|-
-{{#اگر:{{{أصلي نام|}}} |
-! width="85" {{!}} أصلي نام
-{{!}} {{{أصلي نام}}}
-{{!}}-
-}}
-|-
-{{#اگر:{{{فعاليت ٚ زمينه|}}} |
-{{!}}width="85px"{{!}} '''فعاليت ٚ زمينه''' {{!}}{{!}} {{{فعاليت ٚ زمينه}}}
-}}
-|-
-{{#اگر:{{{مليت|}}} |
-! مليت
-{{!}} {{{مليت}}}
-{{!}}-
-}}
-{{#اگر:{{{بزارۊج|}}} |
-! بزارۊج
-{{!}} {{{بزارۊج}}}
-{{!}}-
-}}
-{{#اگر:{{{بزاجيگا|}}} |
-! بزاجيگا
-{{!}} {{{بزاجيگا}}}
-{{!}}-
-}}
-{{#اگر:{{{بمردن ٚ رۊج|}}} {{{بمردن ٚ جيگا|}}} |
-! بمردن
-{{!}} {{#اگر:{{{بمردن ٚ رۊج|}}}|{{{بمردن ٚ رۊج}}}<br />}} {{{بمردن ٚ جيگا|}}}
-{{!}}-
-}}
-{{#اگر:{{{زيوش ٚ جيگا|}}} {{{زيوش ٚ جيگا|}}} |
-! زيوش ٚ جيگا
-{{!}} {{#اگر:{{{زيوش ٚ جيگا|}}}|<span class="label">{{{زيوش ٚ جيگا}}}</span><br />}} {{{مختصات محل زندگی|}}}
-{{!}}-
-}}
-|-
-{{#اگر:{{{مدفن|}}} |
-! دفن ٚ جيگا
-{{!}} {{{مدفن}}}
-{{!}}-
-}}
-{{#اگر:{{{باخي نامان|}}} |
-! باخي نامان
-{{!}} <span class="nickname">{{{باخي نامان}}}</span>
-{{!}}-
-}}
-{{#اگر:{{{پیشه|}}} |
-! کار
-{{!}} {{{پیشه}}}
-{{!}}-
-}}
-{{#اگر:{{{کار گۊدن ٚ سالان|}}} |
-! کار گۊدن ٚ سالان
-{{!}} {{{کار گۊدن ٚ سالان}}}
-{{!}}-
-}}
-{{#اگر:{{{والدین|}}} |
-! پئر ؤ مار
-{{!}} {{{والدین}}}
-{{!}}-
-}}
-{{#اگر:{{{همسر|}}} |
-! همسران
-{{!}} {{{همسر}}}
-{{!}}-
-}}
-{{#اگر:{{{زيوش ٚ شريکان|}}} |
-! زيوش ٚ شريکان
-{{!}} {{{زيوش ٚ شريکان}}}
-{{!}}-
-}}
-{{#اگر:{{{زاکان|}}} |
-! زاکان
-{{!}} {{{زاکان}}}
-{{!}}-
-}}
-{{#اگر:{{{تحصیلات|}}} |
-! تحصيلات
-{{!}} {{{تحصیلات}}}
-{{!}}-
-}}
-{{#اگر:{{{تأثير بنأ|}}} |
-! تأثير بنأ
-{{!}} <span class="label">{{{تأثير بنأ}}}</span>
-{{!}}-
-}}
-{{#اگر:{{{تأثير بيگيته‌|}}} |
-! تأثير بيگيته‌
-{{!}} <span class="label">{{{تأثير بيگيته‌}}}</span>
-{{!}}-
-}}
-{{#اگر:{{{وبجيگا|}}} |
-! وبجيگا
-{{!}} {{{وبجيگا}}}
-{{!}}-
-}}
-{{#اگر:{{{ايمضا|}}} |
-! ایمضا {{#invoke:InfoboxImage|InfoboxImage|image={{{ايمضا|}}}|size={{{signature_size|}}}|sizedefault=150px|alt={{{signature alt|{{{signature_alt|}}}}}}}}
-{{!}}-
-}}
-{{#اگر:{{{imdb_id|}}}|
-! style="font-size: 100%;" align="center" colspan="2" {{!}} '''[http://www.imdb.com/name/nm{{formatnum:{{{imdb_id|}}}|R}}/ بازيگر ٚ أصلي ولگ IMDb مئن]'''
-{{!}}-
-}}
-{{#اگر:{{{soure_id|}}}|
-! style="font-size: 100%;" align="center" colspan="2" {{!}} '''[http://www.sourehcinema.com/People/People.aspx?Id={{{soure_id}}}/ بازيگر ٚ أصلي ولگ سوره مئن]'''
-{{!}}-
-}}
-{{!}}}
-<noinclude>
+{{Infobox
+| aboveclass   = fn org
+| above = {{#if:{{{name|}}}{{{surname|}}}|{{{name|{{{surname|}}}}}}|{{PAGENAMEBASE}}}}{{#if:{{{native_name|}}}|<br /><div style="display:inline;" class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</div>}}{{#if:{{{other_name|}}}{{{other_names|}}}|<br /><div class="nickname" style="display:inline;font-size:78%">{{{other_name|{{{other_names}}}}}}</div>}}
 
-<pre>
-{{کارکیایی جعبه
-|کارکیایی نام= ؟؟؟
-|تاتايي= ؟؟؟
-|تاتايي تؤضيح=؟؟؟
-|أصلي نام=؟؟؟ 
-|پاتخت=؟؟؟ 
-|آغازا بوستن=؟؟؟
-|فوگوردستن=؟؟؟
-|زوان=؟؟؟ 
-|دین=؟؟؟
-|اولی کیا=؟؟؟
-|واپسی کیا=؟؟؟ 
-|حکومت پیشی=؟؟؟
-|حکومت پسی=؟؟؟
-}}
-</pre>
+| image       = {{#invoke:InfoboxImage|InfoboxImage|image={{{coat_of_arms|{{{coat of arms|{{{crest|}}}}}}}}}|size={{{coat_of_arms_size|{{{crest_size|}}}}}}|sizedefault=frameless|upright=0.5|alt={{{alt|}}}}}
+| caption     = {{{caption|{{{coat_of_arms_caption|{{{crest_caption|{{{crestcaption|}}}}}}}}}}}}
+
+| image3       = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|{{{imagesize|}}}}}}|alt={{{alt2|}}}}} 
+| caption3     = {{{caption2|{{{image_caption|{{{imagecaption|}}}}}}}}}
+
+| headerstyle  = background: #eee;
+
+| subheader    = {{{type|}}}
+
+| label1       = ماري گۊد {{#if:{{{parent_house|}}}{{{parent house|}}}|}}
+| data1        = {{{parent_family|{{{parent_house|{{{parent house|}}}}}}}}}
+| label2       = کيشور
+| class2       = label
+| data2        = {{{country|}}}
+| label3       = هأسأيي سامان
+| data3        = {{{region|}}}
+| label4       = أولي شکلان
+| data4        = {{{early_forms|}}}
+| label5       = نام ٚ بۊنه
+| data5        = {{{etymology|{{{meaning|}}}}}}
+| label6       = ايصالت
+| data6        = {{{origin|}}}
+| label7       = ديسئن ٚ سال
+| data7        = {{{founded|{{{founding_year|{{{founding year|}}}}}}}}}
+| label8       = ديسا
+| data8        = {{{founder|}}}
+| label9       = هأسأيي رابر
+| data9        = {{{current_head|{{{current head|}}}}}}
+| label10      = آخري حاکم
+| data10       = {{{final_ruler|{{{final ruler|}}}}}}
+| label11       = آخري رابر
+| data11       = {{{final_head|{{{final head|}}}}}}
+| label12      = عؤنوانان
+| data12       = {{{titles|}}}
+| label13      = منصبان
+| data13       = {{{styles|}}}
+| label14      = عؤضوان
+| data14       = {{{members|}}}
+| label15      = مرتبط ٚ عؤضوان
+| data15       = {{{connected_members|{{{connectedmembers|}}}}}}
+| label16      = مرتبط ٚ درزایان
+| data16       = {{{other_families|{{{otherfamilies|}}}}}}
+| label17      = امتیاز
+| data17       = {{{distinctions|}}}
+| label18      = دابان
+| data18       = {{{traditions|}}}
+| label19      = دين
+| data19       = {{{religion|}}}
+| label20      = شۊعار
+| data20       = {{#if:{{{motto|}}}|
+                       {{#if:{{{motto_lang|}}} |
+                             <div style="display:inline;" lang="{{{motto_lang}}}">{{{motto}}}</div> |
+                             {{{motto}}} | 
+                       }}
+                 }}<!--
+              -->{{#if:{{{motto_trans|}}}|<br />({{{motto_trans}}})|}}
+| label21      = وارثان
+| data21       = {{{heirlooms|}}}
+| label22      = داراييان
+| data22       = {{{estate|{{{estates|}}}}}}
+| label23      = وچئن
+| data23       = {{{properties|}}}
+| label24      = خالان
+| data24       = {{{dissolution|}}}
+| label25      = گواهي
+| data25       = {{{deposition|}}}
+| label26      = فرعي خالان
+| data26       = {{{cadet_branches|{{{cadet branches|}}}}}}
+| label27      = بخش
+| data27       = {{{branches|}}}
+| label28      = وبجيگا
+| data28       = {{{website|{{{url|}}}}}}
+
+| data40       = {{{module|{{{پودمان|}}}}}}
+
+| belowstyle   = border-top:#aaa 1px solid
+| below        = {{#if:{{{footnotes|}}}{{{notes|}}}|<div style="text-align: left;">{{{footnotes|{{{notes|}}}}}}</div>}}
+}}{{#invoke:Check for unknown parameters|check|unknown={{Main other|[[رده:صفحه‌هایی که از جعبه اطلاعات خانواده با پارامترهای نامعلوم استفاده می‌کنند]]}}|preview=Page using [[الگو:Infobox Family]] with unknown parameter "_VALUE_"|ignoreblank=y | name | surname | native_name | native_name_lang | other_name | other_names | coat_of_arms | coat of arms | crest | coat_of_arms_size | crest_size | alt | caption | coat_of_arms_caption | crest_caption | crestcaption | image | image_size | imagesize | alt2 | caption2 | image_caption | imagecaption | type | parent_family | parent_house | parent house | country | region | early_forms | etymology | meaning | origin | founded | founding_year | founding year | founder | current_head | current head | final_head | final head | final_ruler | final ruler | titles | styles | members | connected_members | connectedmembers | other_families | otherfamilies | distinctions | traditions | motto | motto_lang | motto_trans | heirlooms | estates | estate | properties | dissolution | deposition | cadet_branches | cadet branches | branches | website | url | footnotes | notes | module }}<noinclude>
+{{توضیحات}}
+</noinclude>
