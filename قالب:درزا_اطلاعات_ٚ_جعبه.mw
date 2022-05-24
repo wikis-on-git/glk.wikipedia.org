@@ -83,3 +83,17 @@
 }}{{#invoke:Check for unknown parameters|check|unknown={{Main other|[[رده:صفحه‌هایی که از جعبه اطلاعات خانواده با پارامترهای نامعلوم استفاده می‌کنند]]}}|preview=Page using [[الگو:Infobox Family]] with unknown parameter "_VALUE_"|ignoreblank=y | name | surname | native_name | native_name_lang | other_name | other_names | coat_of_arms | coat of arms | crest | coat_of_arms_size | crest_size | alt | caption | coat_of_arms_caption | crest_caption | crestcaption | image | image_size | imagesize | alt2 | caption2 | image_caption | imagecaption | type | parent_family | parent_house | parent house | country | region | early_forms | etymology | meaning | origin | founded | founding_year | founding year | founder | current_head | current head | final_head | final head | final_ruler | final ruler | titles | styles | members | connected_members | connectedmembers | other_families | otherfamilies | distinctions | traditions | motto | motto_lang | motto_trans | heirlooms | estates | estate | properties | dissolution | deposition | cadet_branches | cadet branches | branches | website | url | footnotes | notes | module }}<noinclude>
 {{توضیحات}}
 </noinclude>
+
+==مثال==
+{{کارکیایی
+|surname          = قاجار
+|coat of arms     = [[پرونده:Imperial Emblem of the Qajar Dynasty (Lion and Sun).svg|220px]]
+|parent house     = قؤوانلۊ خال، قاجار ٚ ايل ٚ جه
+|country          = ممالک محرۊسه ايران
+|founding year    = ۱۷۹۶
+|founder          = آغامحمدخان قاجار (۱۷۹۶–۱۷۹۷)
+|current head     = محمدعلي ميرزا (۲۰۱۱ جه)
+|final ruler      = أحمدشا (۱۹۰۹–۱۹۲۵)
+|titles           = ايران ٚ شا
+|deposition       = ۱۹۲۵
+}}
